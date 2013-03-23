@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pdfs</key>
+	<array>
+		<dict>
+			<key>file</key>
+			<string>vowel_sounds.pdf</string>
+			<key>title</key>
+			<string>txt-vowel-sounds</string>
+		</dict>
+		<dict>
+			<key>file</key>
+			<string>consonant_sounds.pdf</string>
+			<key>title</key>
+			<string>txt-consonant-sounds</string>
+		</dict>
+	</array>
+</dict>
+</plist>

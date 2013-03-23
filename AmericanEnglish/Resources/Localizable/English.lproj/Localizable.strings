@@ -1,0 +1,1084 @@
+/* 
+   Localizable.strings
+   AmericanEnglish
+
+   Created by kesalin on 7/19/11.
+   Copyright 2011 kesalin@gmail.com. All rights reserved.
+ */
+
+
+// tabBar items
+//
+"txt-tab-audios"                        = "Audios";
+"txt-tab-units"							= "Units";
+"txt-tab-grammar"                       = "Grammar";
+"txt-tab-about"                         = "About";
+"txt-tab-recorder"                      = "Record";
+
+"txt-all"                               = "ALL";
+"txt-vowel"                             = "Vowel";
+"txt-consonant"                         = "Consonant";
+"txt-symbol"                            = "Sound";
+"txt-sound"                             = "Sound";
+
+"txt-loop-mode-all"                     = "Loop All";
+"txt-loop-mode-unit"                    = "Loop Unit";
+"txt-loop-mode-single"                  = "Loop Single";
+
+"txt-play-mode-auto"                    = "Auto";
+"txt-play-mode-manual"                  = "Manual";
+
+// PDF display name
+//
+"txt-vowel-sounds"                      = "Vowel Sounds";
+"txt-consonant-sounds"                  = "Consonant Sounds";
+
+// section
+//
+"txt-default-pronunciation-title"       = "Pronunciation";
+"txt-default-expressions-title"         = "Common Expressions";
+"txt-default-vocabulary-title"          = "Vocabulary";
+
+// unit
+// I ε e æ ʌ ə ɑ ɔ o u υ ɜ
+//
+"txt-unit-01-title"						= "Unit 1 /i/ • eat";
+
+"txt-unit-01-S0-01-content"             = "Open your mouth just a little for the sound /i/.\nSpread you lips into a smile.\nPush your tongue forward in you mouth.\n/i/ is a long sound.\nMove your tongue up a little as you say it.\n\nListen and repeat: /i/.";
+
+"txt-unit-01-SA-title"					= "A Vocabulary";
+"txt-unit-01-SA-01-title"               = "1 The sounds /i/ is very long in these words. Listen and repeat.";
+"txt-unit-01-SA-01-content"             = "tea,three,cheese,bean,meal";
+"txt-unit-01-SA-02-title"               = "2 The sounds /i/ is shorter in these words. Listen and repeat.";
+"txt-unit-01-SA-02-content"             = "meat,peach,Greek,pizza,coffee";
+"txt-unit-01-SA-03-title"               = "3 Is the /i/ sound longer in the words on the left or the words on the right? Listen and repeat.";
+"txt-unit-01-SA-03-content"             = "see|teat,please|beef,cream|complete";
+
+"txt-unit-01-SB-title"					= "B Dialog: Eating out";
+"txt-unit-01-SB-01-title"		        = "Three friends are at a pizza restaurant.\n1 Cover the dialog and listen. Circle the correct words in parentheses.";
+"txt-unit-01-SB-01-content"             = "{1,3}";
+"txt-unit-01-SB-01-01"		            = " a) Steve doesn't eat (cheese/meat/beans).";
+"txt-unit-01-SB-01-02"		            = " b) They order (two cheese pizzas and one meat pizza/two meat pizzas and one cheese pizza.";
+"txt-unit-01-SB-01-03"		            = " c) Three people order (Greek salad/coffee).";
+
+"txt-unit-01-SC-title"					= "C Stressed Syllables in Words";
+"txt-unit-01-SE-title"					= "E The Alphabet";
+"txt-unit-01-SE-01-title"               = "Listen to the letters of the alphabet.";
+"txt-unit-01-SE-01-content"             = "  A  B  C  D  E  F\n  G  H  I   J   K  L\n  M  N  O  P  Q  R\n  S  T  U  V  W  X\nY Z";
+"txt-unit-01-SG-title"					= "G Common Expressions";
+"txt-unit-01-SG-01-title"               = "Listen and repeat these common expressions with the sound /i/.";
+"txt-unit-01-SG-01-content"             = "Really?|I agree.|Could you repeat that, please?|I can't believe it.|Pleased to meet you.|Can I please speak to Lee?";
+
+"txt-unit-02-title"						= "Unit 2 /I/ • sit";
+
+"txt-unit-02-S0-01-content"             = "Practice the sound /І/.\nOpen your mouth a little more for /І/.\nDo not spread your lips into a smile.\nPull your tongue down a little.\n/І/ is shorter, more relaxed sound than /i/.\n\nListen and repeat: /І/.";
+
+"txt-unit-02-SA-title"					= "A Word Pairs";
+"txt-unit-02-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-02-SA-01-content"             = "Sound /i/|Sound /І/,sheep|ship,seat|sit,heel|hill,feel|fill,sleep|slip";
+"txt-unit-02-SB-title"					= "B Test Yourself";
+"txt-unit-02-SC-title"					= "C Vocabulary";
+"txt-unit-02-SC-01-title"               = "Listen and repeat these words with the sound /І/. In words with more than one syllable, the stressed syllable is in bold.";
+"txt-unit-02-SC-01-content"             = "is,it's,if,sick,think,quick,sit,miss,film,Mrs.(\"missiz\"),ticket,begins,listen,fifteen,beginning,intersting";
+"txt-unit-02-SD-title"					= "D Dialog: An intersting film";
+"txt-unit-02-SD-01-title"               = "Listen to the dialog.";
+"txt-unit-02-SD-01-content"             = "{1,12}";
+"txt-unit-02-SD-01-01"                  = "Two friends have plans to see a film.";
+"txt-unit-02-SD-01-02"                  = "Cindy (ringing her friend's doorbell)";
+"txt-unit-02-SD-01-03"                  = "Mrs.Kim: Hello, Cindy.";
+"txt-unit-02-SD-01-04"                  = "  Cindy: Hi, Mrs.Kim. Is William in? Is he coming with me to the film? I picked up a ticket for him.";
+"txt-unit-02-SD-01-05"                  = "Mrs.Kim: On, William's sick.";
+"txt-unit-02-SD-01-06"                  = "  Cindy: Here he is! Hi, William! Are you sick?";
+"txt-unit-02-SD-01-07"                  = "William: What film is it? Anything interesting?";
+"txt-unit-02-SD-01-08"                  = "  Cindy: It's King Kong. And it begins in fifteen minutes.";
+"txt-unit-02-SD-01-09"                  = "William: Fifty minutes? Come in and sit down.";
+"txt-unit-02-SD-01-10"                  = "  Cindy: Not fifty minutes, fifteen!";
+"txt-unit-02-SD-01-11"                  = "Mrs.Kim: Listen, William, if you're sick, I don't think...";
+"txt-unit-02-SD-01-12"                  = "William: Quick! Or we'll miss the beginning of the film!";
+"txt-unit-02-SE-title"					= "E Stress in Numbers";
+"txt-unit-02-SF-title"					= "F Moving Stress";
+"txt-unit-02-SJ-title"					= "J Common Expressions";
+"txt-unit-02-SJ-01-title"               = "Listen and repeat these common expressions with the sound /І/.";
+"txt-unit-02-SJ-01-content"             = "Listen to this.|Who is it?|Come in.|Do you speek English?|I think it's interesting.|Where do you live? I live in the city.";
+
+
+"txt-unit-03-title"						= "Unit 3 /ε/ • yes";
+"txt-unit-03-S0-01-content"             = "Practice the sound /І/.\nOpen your mouth a little more for /ε/.\n/ε/ is a short, relaxed shound.\n\nListen and repeat: /ε/.";
+"txt-unit-03-SA-title"					= "A Word Pairs";
+"txt-unit-03-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-03-SA-01-content"             = "Sound /І/|Sound /ε/,bill|bell,pin|pen,chicks|checks,wrist|rest,spill|spell";
+"txt-unit-03-SB-title"					= "B Test Yourself";
+"txt-unit-03-SC-title"					= "C Vocabulary";
+"txt-unit-03-SC-01-title"               = "Listen and repeat these words with the sound /ε/. Underline the stressed syllable in each word.";
+"txt-unit-03-SC-01-content"             = "ever,friendly,hotel,weather,yesterday,expensive,restaurant,welcome,everything,everybody,expecially,any,empty,excellent,jealous";
+"txt-unit-03-SD-title"					= "D Dialog: The best vacation ever!";
+"txt-unit-03-SE-title"					= "E Falling and rising intonation";
+"txt-unit-03-SF-title"					= "F Conversation Practice";
+"txt-unit-03-SF-01-title"               = "1, Listen and repeat these place names.";
+"txt-unit-03-SF-01-content"             = "{1,4}";
+"txt-unit-03-SF-01-01"					= " Mexico, Belgium, Vennice";
+"txt-unit-03-SF-01-02"					= " Texas, Tibet, Quebec";
+"txt-unit-03-SF-01-03"					= " Yemen, Kenya, Denmark";
+"txt-unit-03-SF-01-04"					= " Ecuador, Senegal, Central America";
+"txt-unit-03-SF-02-title"				= "2, Practice this conversation with a partner. Use the place names in step 1.";
+"txt-unit-03-SF-02-content"             = "{1,4}";
+"txt-unit-03-SF-02-01"					= "A: Where did you spend your vacation?";
+"txt-unit-03-SF-02-02"					= "B: I went to ____.";
+"txt-unit-03-SF-02-03"					= "A: Was it expensive?";
+"txt-unit-03-SF-02-04"					= "B: Yes. Very. / No. Not very.";
+
+"txt-unit-03-SI-title"					= "I Common Expressions";
+"txt-unit-03-SI-01-title"               = "Listen and repeat these common expressions with the sound /ε/.";
+"txt-unit-03-SI-01-content"             = "Yes.|Help!|You're welcome.|It's very expensive.|How do you spell weather?|Lets get ready.";
+
+
+"txt-unit-04-title"						= "Unit 4 /e/ • day";
+"txt-unit-04-S0-01-content"             = "Practice the sound /ε/.\nClose you mouth a little for /e/.\n/e/ is a long sound.\nSpead your lips and move your tongue up a little as you say it.\n\nListen and repeat: /e/.";
+"txt-unit-04-SA-title"					= "A Word Pairs";
+"txt-unit-04-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-04-SA-01-content"             = "Sound /ε/|Sound /e/,pen|pain,wet|wait,test|taste,pepper|papper,shed|shade";
+"txt-unit-04-SB-title"					= "B Test Yourself";
+"txt-unit-04-SC-title"					= "C Vocabulary";
+"txt-unit-04-SC-01-title"               = "Listen and repeat these words with the sound /e/.";
+"txt-unit-04-SC-01-content"             = "today,away,May,April,ages,train,late,waiting,mistake,8:08,eighth,station,vavation,changhed";
+"txt-unit-04-SD-title"					= "D Dialog: At the train station";
+"txt-unit-04-SE-title"					= "E Stress in Sentences";
+"txt-unit-04-SF-title"					= "F Conversation Practice";
+"txt-unit-04-SF-01-title"               = "Under line the stressed syllables in each of B's sentences in the converstion. Listen to the conversation and check your answers.";
+"txt-unit-04-SF-01-content"             = "{1,20}";
+"txt-unit-04-SF-01-01"                  = "A: Today is the eighth of May.";
+"txt-unit-04-SF-01-02"                  = "B: The eighth?";
+"txt-unit-04-SF-01-03"                  = "A: Yes. It's my neighbor's birthday.";
+"txt-unit-04-SF-01-04"                  = "B: You neighbor Kate?";
+"txt-unit-04-SF-01-05"                  = "A: Yes. I baked her a cake.";
+"txt-unit-04-SF-01-06"                  = "B: A cake?";
+"txt-unit-04-SF-01-07"                  = "A: But she's going away on vacation.";
+"txt-unit-04-SF-01-08"                  = "B: She's going away?";
+"txt-unit-04-SF-01-09"                  = "A: Yes. She's going to Spain.";
+"txt-unit-04-SF-01-10"                  = "B: To Spain?";
+"txt-unit-04-SF-01-11"                  = "A: Yes. Her plane leaves at eight.";
+"txt-unit-04-SF-01-12"                  = "B: At eight today?";
+"txt-unit-04-SF-01-13"                  = "A: Yes. Can you take her to the airport?";
+"txt-unit-04-SF-01-14"                  = "B: Me? Maybe.";
+"txt-unit-04-SF-01-15"                  = "A: I'll give you the cake.";
+"txt-unit-04-SF-01-16"                  = "B: But you made it for Kate.";
+"txt-unit-04-SF-01-17"                  = "A: Yes, but she's going away.";
+"txt-unit-04-SF-01-18"                  = "B: Is it a lemon cake?";
+"txt-unit-04-SF-01-19"                  = "A: Yes.";
+"txt-unit-04-SF-01-20"                  = "B: Mm, my favorite! OK, I'll take her!";
+"txt-unit-04-SH-title"					= "H Common Expressions";
+"txt-unit-04-SH-01-title"               = "Listen and repeat these common expressions with the sound /e/.";
+"txt-unit-04-SH-01-content"             = "OK.|Wait!|I'm late.|What's your name?|What's today's date?|Have a great day!";
+
+
+"txt-unit-05-title"						= "Unit 5 /æ/ • hat";
+"txt-unit-05-S0-01-content"             = "Practice the sound /ε/.Open your mouth a little more for /æ/.\n\nListen and repeat: /æ/.";
+"txt-unit-05-SA-title"					= "A Word Pairs";
+"txt-unit-05-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-05-SA-01-content"             = "Sound /ε/|Sound /æ/,X|axe,pen|pan,men|man,left|laughed,said|sad";
+"txt-unit-05-SB-title"					= "B Test Yourself";
+"txt-unit-05-SC-title"					= "C Vocabulary";
+"txt-unit-05-SC-01-title"               = "Listen and repeat these words with the sound /æ/.";
+"txt-unit-05-SC-01-content"             = "a hat,glassed,a backpack,a mustache,a back jacket,a plastic bag,black pants,a plaid jacket";
+"txt-unit-05-SD-title"					= "D Dialog: The bank robber";
+"txt-unit-05-SE-title"					= "E The Most Important Word";
+"txt-unit-05-SF-title"					= "F Conversation Practice";
+"txt-unit-05-SF-01-title"               = "1 Listen to this conversation.";
+"txt-unit-05-SF-01-content"             = "{1,3}";
+"txt-unit-05-SF-01-01"                  = "A: That's the person who took my bag!";
+"txt-unit-05-SF-01-02"                  = "B: Did he have a hat?";
+"txt-unit-05-SF-01-03"                  = "A: Yes. A black hat.";
+
+"txt-unit-05-SH-title"					= "I Common Expressions";
+"txt-unit-05-SH-01-title"               = "Listen and repeat these common expressions with the sound /æ/.";
+"txt-unit-05-SH-01-content"             = "Thanks.|Welcome back.|What happened?|What's the matter?|I understand.|Do you have any plans?";
+
+
+"txt-unit-06-title"						= "Unit 6 Review";
+"txt-unit-06-SA-title"					= "A Test Yourself";
+"txt-unit-06-SB-title"					= "B Vocabulary";
+"txt-unit-06-SC-title"					= "C Dialog: Dinner on the grass";
+"txt-unit-06-SD-title"					= "D Syllables and Stress";
+
+
+"txt-unit-07-title"						= "Unit 7 /ʌ/ • cup";
+"txt-unit-07-S0-01-content"             = "Practice the sound /æ/.\Close your mouth a little for /ʌ/.\nYou tongue should rest in the middle of your mouth.\n/ʌ/ is a short, relaxed sound.\n\nListen and repeat: /ʌ/.";
+"txt-unit-07-SA-title"					= "A Word Pairs";
+"txt-unit-07-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-07-SA-01-content"             = "Sound /æ/|Sound /ʌ/,cap|cup,bag|bug,cat|cut,rag|rug,ankle|uncle";
+"txt-unit-07-SB-title"					= "B Test Yourself";
+"txt-unit-07-SC-title"					= "C Vocabulary";
+"txt-unit-07-SC-01-title"               = "Listen and repeat these words with the sound /ʌ/. Work with a partner. Circle the words that do not have the sound /ʌ/.";
+"txt-unit-07-SC-01-content"             = "love,much,lunch,happy,honey,doesn't,don't,nothing,month,wonderful,young,enough,talking,brother,other,company,cousin,once,your,understand";
+"txt-unit-07-SD-title"					= "D Dialog: Who does she love?";
+"txt-unit-07-SE-title"					= "E Strong and Weak Pronunciations";
+"txt-unit-07-SF-title"					= "F Srambled Conversation";
+"txt-unit-07-SF-01-title"               = "1 Listen to the questions on the left. Fill in the missing words.";
+"txt-unit-07-SF-01-content"             = "{1,14}";
+"txt-unit-07-SF-01-01"					= "A: Does he have any brothers?";
+"txt-unit-07-SF-01-02"					= "B: Yes, he does. A younger brother."; 
+"txt-unit-07-SF-01-03"					= "A: Do you come here often?";
+"txt-unit-07-SF-01-04"					= "B: No, I don't. Just once a month.";
+"txt-unit-07-SF-01-05"					= "A: Do you have enough money?";
+"txt-unit-07-SF-01-06"					= "B: I think I do. How much is it?";
+"txt-unit-07-SF-01-07"					= "A: Was he late for lunch?";
+"txt-unit-07-SF-01-08"					= "B: No, he wasn't.";
+"txt-unit-07-SF-01-09"					= "A: Does she understand Russian?";
+"txt-unit-07-SF-01-10"					= "B: No, she doesn't, but her husband does.";
+"txt-unit-07-SF-01-11"					= "A: Was she in love with his cousin?";
+"txt-unit-07-SF-01-12"					= "B: No, she wasn't";
+"txt-unit-07-SF-01-13"					= "A: Do they have any children?";
+"txt-unit-07-SF-01-14"					= "B: Yes, they do. They have two sons.";
+
+"txt-unit-07-SH-title"					= "H Common Expressions";
+"txt-unit-07-SH-01-title"               = "Listen and repeat these common expressions with the sound /ʌ/.";
+"txt-unit-07-SH-01-content"             = "What country are you from?|What's up? Nothing much.|That was fun!|Do you have enough money?|Would you like another one?|I love it!";
+
+
+"txt-unit-08-title"						= "Unit 8 /ə/ • a banana";
+"txt-unit-08-S0-01-content"             = "Practice the sound /ʌ/.\nMake it very short for /ə/.\nThe sound /ə/ is always short and weak.\n\nListen and repeat: /ə/.";
+"txt-unit-08-SA-title"					= "A Vocabulary";
+"txt-unit-08-SA-01-title"               = "The sound /ə/ is used in many unstressed syllables and words. In the words below, the spelling has heen changed to show you when to use the sound /ə/. Stressed syllables are in bold. Listen and repeat.";
+"txt-unit-08-SA-01-content"             = "chikcən,təmatoes,lettəce,ə bənanə, ən oniən,səme chocholəte,ə questiən,ə womən,womən";
+"txt-unit-08-SB-title"					= "B /ə/ in Unstressed Syllables and Words";
+"txt-unit-08-SC-title"					= "C Can and can't";
+"txt-unit-08-SD-title"					= "D Test Yourself";
+"txt-unit-08-SG-title"					= "G Common Expressions";
+"txt-unit-08-SG-01-title"               = "Listen and repeat these common expressions with the sound /ə/.";
+"txt-unit-08-SG-01-content"             = "What's the problem?|Go away!|Can you say that again?|That's an excellent question.|I'm from Canada.|the United States of American";
+
+
+"txt-unit-09-title"						= "Unit 9 /ər/ • letter";
+"txt-unit-09-S0-01-content"             = "Practice the sound /ə/.\nCurl the tip of your tongue up and back to say /ər/.\nThe sound /ər/ is pronounced as one short sound.\n\nListen and repeat: /ər/.";
+"txt-unit-09-SA-title"					= "A Vocabulary";
+"txt-unit-09-SA-01-title"               = "The sound /ər/ is used in many unstressed syllables spelled with a vowel + r.\nIn the words below, the spelling has been changed to show you when to use the sound /ər/. Listen and repeat.";
+"txt-unit-09-SA-01-content"             = "waitər,doctər,lawyər,teachər,actər,paintər,farmər,reportər";
+"txt-unit-09-SB-title"					= "B /ər/ in Unstressed Syllables and Words";
+"txt-unit-09-SC-title"					= "C Intonation in Choice Questions with or";
+"txt-unit-09-SD-title"					= "D Dialog: Asking a favor";
+"txt-unit-09-SF-title"					= "F Common Expressions";
+"txt-unit-09-SF-01-title"               = "Listen and repeat these common expressions with the sound /ər/.";
+"txt-unit-09-SF-01-content"             = "See you later.|Don't forget.|What's for dinner?|Do you know the answer?|Are you married or single?|Do you have any brothers or sisters?";
+
+
+"txt-unit-10-title"						= "Unit 10 /ɑ/ • hot";
+"txt-unit-10-S0-01-content"             = "Prcatice the sound /æ/.\nOpen your mouth wide for the sound /ɑ/.\nYour tongue should rest in the bottom of you mouth.\n\nListen and repeat:/ɑ/.";
+"txt-unit-10-SA-title"					= "A Word Pairs 1";
+"txt-unit-10-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-10-SA-01-content"             = "Sound /æ/|Sound /ɑ/,hat|hot,cat|cot,cap|cop,sack|sock,ran|Ron";
+"txt-unit-10-SB-title"					= "B Word Pairs 2";
+"txt-unit-10-SB-01-title"               = "Listen to these word pairs";
+"txt-unit-10-SB-01-content"             = "Sound /ʌ/|Sound /ɑ/,hut|hot,cut|cot,cup|cop,suck|sock";
+"txt-unit-10-SC-title"					= "C Test Yourself";
+"txt-unit-10-SD-title"					= "D Vocabulary: ";
+"txt-unit-10-SD-01-title"               = "Listen and repeat these words with the sound /ɑ/.";
+"txt-unit-10-SD-01-content"             = "a doll,a teapot,a watch,a laptop,a novel,a box of chocolates";
+"txt-unit-10-SD-02-title"               = "Listen and repeat. Curl the tip of you tongue up to make the sound /r/ in these words.";
+"txt-unit-10-SD-02-content"             = "a scarf,a guitar,a deck of cards";
+"txt-unit-10-SE-title"					= "E Dialog: A TV commercial";
+"txt-unit-10-SF-title"					= "F Phrase Groups";
+"txt-unit-10-SI-title"					= "I Common Expressions";
+"txt-unit-10-SI-01-title"               = "Listen and repeat these common expressions with the sound /ɑ/.";
+"txt-unit-10-SI-01-content"             = "Stop!|No problem!|I got a job.|What do you want.|Are you comming? Probably not.|Park the car.";
+
+
+"txt-unit-11-title"						= "Unit 11 /ɔ/ • ball";
+"txt-unit-11-S0-01-content"             = "Practice the sound /ɑ/.\nPull your tongue back a little for /ɔ/.\nPush your lips forward a little and make them round.\n\nListen and repeat: /ɔ/.\n\n* Many people in the U.S. and Canada use the sound /ɑ/ instead of /ɔ/ in some words, eg:hall, ball, walk.\n";
+"txt-unit-11-SA-title"					= "A Word Pairs 1";
+"txt-unit-11-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-11-SA-01-content"             = "Sound /ʌ/|Sound /ɔ/,cut|caught,dug|dog,bus|boss,done|dawn,color|caller";
+"txt-unit-11-SB-title"					= "B Word Pairs 2";
+"txt-unit-11-SB-01-title"               = "Listen to these word pairs";
+"txt-unit-11-SB-01-content"             = "Sound /ɑr/|Sound /ɔr/,far|four,star|store,card|cord,part|port";
+"txt-unit-11-SC-title"					= "C Test Yourself";
+"txt-unit-11-SD-title"					= "D Vocabulary";
+"txt-unit-11-SD-01-title"               = "Listen and repeat these words with the sound /ɔ/.";
+"txt-unit-11-SD-01-content"             = "lost,small,falling,walking,airport,reporter,sports,toward,awful,thought,fault,always";
+"txt-unit-11-SE-title"					= "E Dialog: Sports report on Channel 4";
+"txt-unit-11-SF-title"					= "F Using Stress and Intonation to Show a Contrast";
+"txt-unit-11-SI-title"					= "I Common Expressions";
+"txt-unit-11-SI-01-title"               = "Listen and repeat these common expressions with the sound /ə/.";
+"txt-unit-11-SI-01-content"             = "What's wrong?|Who's calling?|You have the wrong number.|Good morning.|Of course!|Have some more coffee.";
+
+
+"txt-unit-12-title"						= "Unit 12 /o/ • go";
+"txt-unit-12-S0-01-content"             = "Practice the sound /ɔ/.\nClose your mouth a little for /o/.\n/o/ is a long sound.\nAs you say it, push your lips forward into a circle.\n\nListen and repeat: /o/.";
+"txt-unit-12-SA-title"					= "A Word Pairs";
+"txt-unit-12-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-12-SA-01-content"             = "Sound /ɔ/|Sound /o/,saw|sew,caught|coat,hall|hole,ball|bowl,walk|woke";
+"txt-unit-12-SB-title"					= "B Test Yourself";
+"txt-unit-12-SC-title"					= "C Vocabulary";
+"txt-unit-12-SC-01-title"               = "One word in each group does NOT have the sound /o/. Work with a partner. Circle the words that do not have the sound /o/.";
+"txt-unit-12-SC-01-content"             = "Oh, no!,snow,hello,ago,stop,| over,open,problem,going,window,| only,come,woke,joking,coat,| closed,throw,now,don't,October";
+"txt-unit-12-SD-title"					= "D Dialog: Snow";
+"txt-unit-12-SE-title"					= "E Linking Vowel Sounds";
+"txt-unit-12-SF-title"					= "F Srambled Conversation";
+"txt-unit-12-SF-01-title"               = "1 Listen and check your answers.";
+"txt-unit-12-SF-01-content"             = "{1,14}";
+"txt-unit-12-SF-01-01"					= "A: Do you know everyone here?";
+"txt-unit-12-SF-01-02"					= "B: No, I don't.";
+"txt-unit-12-SF-01-03"					= "A: Hello. Can I speak to Joe?";
+"txt-unit-12-SF-01-04"					= "B: Sorry, Joe isn't home now.";
+"txt-unit-12-SF-01-05"					= "A: Is it OK if I take one?";
+"txt-unit-12-SF-01-06"					= "B: Sure, go ahead.";
+"txt-unit-12-SF-01-07"					= "A: Is the window open?";
+"txt-unit-12-SF-01-08"					= "B: No, are you cold?";
+"txt-unit-12-SF-01-09"					= "A: Did you call Joan?";
+"txt-unit-12-SF-01-10"					= "B: Yes, but there was no answer.";
+"txt-unit-12-SF-01-11"					= "A: Is there snow on the ground?";
+"txt-unit-12-SF-01-12"					= "B: No, it's only snowing a little.";
+"txt-unit-12-SF-01-13"					= "A: We can't go in yet.";
+"txt-unit-12-SF-01-14"					= "B: I know. It's so annoying.";
+"txt-unit-12-SH-title"					= "H Common Expressions";
+"txt-unit-12-SH-01-title"               = "Listen and repeat these common expressions with the sound /o/.";
+"txt-unit-12-SH-01-content"             = "No.|I don't know.|I hope so.|I'm only joking.|How's it going? OK.|Could you open the window?";
+
+
+"txt-unit-13-title"						= "Unit 13 /u/ • too";
+"txt-unit-13-S0-01-content"             = "Push your lips forward into a circle.\nPull your tongue up and back.\n/u/ is a long sound.\nPush your lips into a tighter circle as you say it.\n\nListen and repeat: /u/.";
+"txt-unit-13-SA-title"					= "A Vocabulary";
+"txt-unit-13-SA-01-title"               = "Listen and repeat these words with the sound /u/.";
+"txt-unit-13-SA-01-content"             = "too,soon,food,blue shoes,student,movie,Tuesday,introduce,roomate,Happy New Year,What's new?";
+"txt-unit-13-SA-02-title"               = "These words have a /j/ sound before the /u/:/ju/. Listen and repeat.";
+"txt-unit-13-SA-02-content"             = "computer,music,usual,excuse me";
+"txt-unit-13-SB-title"					= "B Dialog: Happy New Year!";
+"txt-unit-13-SC-title"					= "C Stress and Pronouns";
+"txt-unit-13-SF-title"					= "F Common Expressions";
+"txt-unit-13-SF-01-title"               = "Listen and repeat these common expressions with the sound /u/.";
+"txt-unit-13-SF-01-content"             = "Excuse me.|What's new?|What do you do?|Who is it?|See you soon.|Let me introduce you.";
+
+
+"txt-unit-14-title"						= "Unit 14 /υ/ • book";
+"txt-unit-14-S0-01-content"             = "Practice the sound /u/.\nOpen your mouth a little for /υ/.\nYour lips should be less round.\nDo not push them into a tight circle.\n/υ/ is a shorter, more relaxed sound than /u/.\n\nListen and repeat: /υ/.";
+"txt-unit-14-SA-title"					= "A Word Pairs";
+"txt-unit-14-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-14-SA-01-content"             = "Sound /u/|Sound /υ/,Luke|look,pool|pull,fool|full,suit|soot,stewed|stood";
+"txt-unit-14-SB-title"					= "B Test Yourself";
+"txt-unit-14-SC-title"					= "C Vocabulary";
+"txt-unit-14-SC-01-title"               = "One word in each column does not have the sound /υ/. Work with a partner. Circle the words that do not have the sound /υ/.";
+"txt-unit-14-SC-01-content"             = "look,put,enough,could,| sugar,shouldn't,cookbook,use,| food,good,full,took,| wouldn't,cookies,under,cushion";
+"txt-unit-14-SD-title"					= "D Dialog: Looking for a book";
+"txt-unit-14-SE-title"					= "E Nagative Contractions";
+"txt-unit-14-SG-title"					= "G Rhythm Chant";
+"txt-unit-14-SI-title"					= "I Common Expressions";
+"txt-unit-14-SI-01-title"               = "Listen and repeat these common expressions with the sound /υ/.";
+"txt-unit-14-SI-01-content"             = "Look!|Who's that woman?That's a good book.|I couldn't do it.|Put some sugar in it.|Those cookies look good.";
+
+
+"txt-unit-15-title"						= "Unit 15 Review";
+"txt-unit-15-SA-title"					= "A Test Yourself";
+"txt-unit-15-SB-title"					= "B Vocabulary";
+"txt-unit-15-SB-01-title"               = "One word in each phrase below normally has the unstressed sound /ə/. Underline the word that is usually pronounced with the sound /ə/.";
+"txt-unit-15-SB-01-content"             = "oppsite the window,full of books,we can move,a few things,push and pull,too hard to move,Don't you think?,What should I do?";
+"txt-unit-15-SC-title"					= "C Dialog: Paul's new apartment";
+
+
+"txt-unit-16-title"						= "Unit 16 /ɑI/ • fine";
+"txt-unit-16-S0-01-content"             = "/ɑI/ has two sonds:/ɑ/ and /І/.\nPractice the sound /ɑ/. Make this sound long.\n And /І/. Make this sound short.\n\n\nListen and repeat: /o/.";
+"txt-unit-16-SA-title"					= "A Word Pairs";
+"txt-unit-16-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-16-SA-01-content"             = "Sound /æ/|Sound /ɑI/,hat|height,back|bike,van|vain,cat|kite,pants|pints";
+"txt-unit-16-SB-title"					= "B Test your self";
+"txt-unit-16-SC-title"					= "C Vocabulary";
+"txt-unit-16-SC-01-title"               = "Listen and repeat the names of these activities.";
+"txt-unit-16-SC-01-content"             = "hiking,bike riding,horseback riding,climbing,skydiving,ice skating,kayaking,scuba diving,hang gliding";
+"txt-unit-16-SD-title"					= "D Dialog: Exercise...or ice cream";
+"txt-unit-16-SE-title"					= "E Stress in Compound Nouns";
+"txt-unit-16-SH-title"					= "H Common Expressions";
+"txt-unit-16-SH-01-title"               = "Listen and repeat these common expressions with the sound /ɑI/.";
+"txt-unit-16-SH-01-content"             = "Hi.|Bye.|Why?|Good night.|I had a nice time.|I'd like to try it.";
+
+
+"txt-unit-17-title"						= "Unit 17 /ɔІ/ • boy";
+"txt-unit-17-S0-01-content"             = "/ɔІ/ has two sounds: /ɔ/ and /І/.\nPractice the sound /ɔ/. Make this sound long.\nAnd /І/. Make this sound short.\n\nListen and repeat: /ɔІ/.";
+"txt-unit-17-SA-title"					= "A Word Pairs";
+"txt-unit-17-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-17-SA-01-content"             = "Sound /ɑI/|Sound /ɔІ/,buy|boy,ties|toys,pint|point,aisle|oil,file|foil";
+"txt-unit-17-SB-title"					= "B Test Yourself";
+"txt-unit-17-SC-title"					= "C Vocabulary";
+"txt-unit-17-SC-01-title"               = "Listen and repeat these words with the sound /ɔІ/.";
+"txt-unit-17-SC-01-content"             = "boys,toys,noise,voices,destroy,spoiled,noisy,noisiest,annoyed,annoying,enjoying";
+"txt-unit-17-SD-title"					= "D Dialog: Noise";
+"txt-unit-17-SE-title"					= "E Sentence Rhythm and Timing";
+"txt-unit-17-SG-title"					= "G Common Expressions";
+"txt-unit-17-SG-01-title"               = "Listen and repeat these common expressions with the sound /ɔІ/.";
+"txt-unit-17-SG-01-content"             = "Did you enjoy it?|Please lower your voice.|How annoying!|What's the point?";
+
+
+"txt-unit-18-title"						= "Unit 18 /ɑυ/ • house";
+"txt-unit-18-S0-01-content"             = "/ɑυ/ has two sounds: /æ/ and /u/.\nPractice the sound /æ/. Make this sound long.\nAnd /υ/. Make this sound short.\n\nListen and repeat: /ɑυ/.";
+"txt-unit-18-SA-title"					= "A Word Pairs";
+"txt-unit-18-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-18-SA-01-content"             = "Sound /ɑ/|Sound /ɑυ/,shot|shout,Don|down,R|hour,pond|pound,moss|mouse";
+"txt-unit-18-SB-title"					= "B Test Yourself";
+"txt-unit-18-SC-title"					= "C Vocabulary";
+"txt-unit-18-SC-01-title"               = "One of these words does not have the sound /ɑυ/. Circle this word.";
+"txt-unit-18-SC-01-content"             = "now,out,town,around,found,house,hour,shower,saw,brown,couch,loud";
+"txt-unit-18-SD-title"					= "D Dialog: A mouse in the house";
+"txt-unit-18-SE-title"					= "E Stress and Linking in Phrasal Verbs";
+"txt-unit-18-SG-title"					= "G Common Expressions";
+"txt-unit-18-SG-01-title"               = "Listen and repeat these common expressions with the sound /ɑυ/.";
+"txt-unit-18-SG-01-content"             = "Wow!|How are you?|I found it.|Please sit down.|How do you pronounce this?|I tried to sound it out.";
+
+
+"txt-unit-19-title"						= "Unit 19 Review";
+"txt-unit-19-SA-title"					= "A Test Yourself";
+"txt-unit-19-SB-title"					= "B Linking Practice";
+"txt-unit-19-SC-title"					= "C Dialog: A boy lying down";
+
+
+"txt-unit-20-title"						= "Unit 20 Review";
+"txt-unit-20-SA-title"					= "A Test Yourself";
+"txt-unit-20-SB-title"					= "B Stressed Syllables in Words";
+"txt-unit-20-SD-title"					= "D Reading: A dream vacation";
+
+
+"txt-unit-21-title"						= "Unit 21 /ɜr/ • word";
+"txt-unit-21-S0-01-content"             = "Practice the sound /ʌ/.\nClose your mouth a little.\nCurl the tip of your tongue up and back to say /ɜr/.\nThe sound /ɜr/ is pronounced as one sound.\n\nListen and repeat: /ɜr/.";
+"txt-unit-21-SA-title"					= "A Word Pairs 1";
+"txt-unit-21-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-21-SA-01-content"             = "Sound /ɔr/|Sound /ɜr/,four|fur,store|stir,torn|turn,shorts|shirts,award|a word";
+"txt-unit-21-SB-title"					= "B Word Pairs 2";
+"txt-unit-21-SB-01-title"               = "Listen to these word pairs";
+"txt-unit-21-SB-01-content"             = "Sound /ɑr/|Sound /ɜr/,far|fur,star|stir,barn|burn,hearts|hurts";
+"txt-unit-21-SC-title"					= "C Word Pairs 3";
+"txt-unit-21-SC-01-title"               = "Listen to these word pairs";
+"txt-unit-21-SC-01-content"             = "Sound /ʌ/|Sound /ɜr/,shut|shirt,bud|bird,bun|burn,gull|girl";
+"txt-unit-21-SD-title"					= "D Test Yourself";
+"txt-unit-21-SE-title"					= "E Vocabulary";
+"txt-unit-21-SE-01-title"               = "Listen and repeat these words with the sound /ɜr/.";
+"txt-unit-21-SE-01-content"             = "nurse,hurts,heard,earns,word,first,werr,weren't,early,dirty,thirty,worst,world,certainly,Thursday";
+"txt-unit-21-SF-title"					= "F Dialog: The worst nurse";
+"txt-unit-21-SG-title"					= "G Tag Questions with Falling Intonation";
+"txt-unit-21-SH-title"					= "H Conversation Practice";
+"txt-unit-21-SH-01-title"               = "Practice with a partner. Student A adds a tag question to each sentence. Student B responds.\nUse falling intonation on the tag questions.\nListen to these two examples.";
+"txt-unit-21-SH-01-content"             = "{1,12}";
+"txt-unit-21-SH-01-01"                  = " You were thirsty.";
+"txt-unit-21-SH-01-02"                  = "A: You were thirsty, weren't you?";
+"txt-unit-21-SH-01-03"                  = "B: Yes, I was.";
+"txt-unit-21-SH-01-04"                  = " We weren' early.";
+"txt-unit-21-SH-01-05"                  = "A: We weren't early, were we?";
+"txt-unit-21-SH-01-06"                  = "B: No, we weren't.";
+"txt-unit-21-SH-01-07"                  = "1. You were nervous.";
+"txt-unit-21-SH-01-08"                  = "2. You weren't at work.";
+"txt-unit-21-SH-01-09"                  = "3. We weren't the worst.";
+"txt-unit-21-SH-01-10"                  = "4. The birthday gifts were perfect.";
+"txt-unit-21-SH-01-11"                  = "5. The words were hard to learn.";
+"txt-unit-21-SH-01-12"                  = "6. You weren't born there.";
+"txt-unit-21-SJ-title"					= "J Common Expressions";
+"txt-unit-21-SJ-01-title"               = "Listen and repeat these common expressions with the sound /ɜr/.";
+"txt-unit-21-SJ-01-content"             = "Hurry!|Certainly.|Don't worry.|I walk to work.|I was the first person there.|the world's worst.";
+
+
+"txt-unit-22-title"						= "Unit 22 /p/ • pop";
+"txt-unit-22-S0-01-content"             = "Close your lips tight.\nPush air forward in your mouth.\nOpen your lips quickly.\nDo not use your voice.\n\nListen and repeat: /p/.";
+"txt-unit-22-SA-title"					= "A Vocabulary";
+"txt-unit-22-SA-01-title"               = "1 At the beginning of a word or a stressed syllable, say /p/ with a strong puff of air. Listen and repeat.";
+"txt-unit-22-SA-01-content"             = "a pen,a pencil,passports,pictures,presents,a CD player,a paper plate,a piece of pie,a pillow,a plastic bag,toothpaste,a newspaper";
+"txt-unit-22-SA-02-title"               = "2 The sound /p/ is quieter in these words. it does not have a strong puff of air. Listen and repeat.";
+"txt-unit-22-SA-02-content"             = "a map, a cup, an envelope, slippers,napkins,a spoon";
+"txt-unit-22-SA-03-title"               = "3 Listen and repeat. Underline the /p/ sounds that are pronounced with a strong puff of air.";
+"txt-unit-22-SA-03-content"             = "a purse, a postcard, a laptop, stamps, pennies, an apple";
+"txt-unit-22-SB-title"					= "B Dialog: \"Passports, please\"";
+"txt-unit-22-SC-title"					= "C Intonation in Lists";
+"txt-unit-22-SG-title"					= "G Common Expressions";
+"txt-unit-22-SG-01-title"               = "Listen and repeat these common expressions with the sound /p/.";
+"txt-unit-22-SG-01-content"             = "Please help.|Stop pushing!|It's pretty important.|Oops! I dropped it.|Pick it up.|Please pass the pepper.";
+
+
+"txt-unit-23-title"						= "Unit 23 /b/ • baby";
+"txt-unit-23-S0-01-content"             = "Practice the sound /p/.\nUse your voice to say /b/.\n\nListen and repeat: /o/.";
+"txt-unit-23-SA-title"					= "A Word Pairs";
+"txt-unit-23-SA-01-title"               = "Listen to these word pairs";
+"txt-unit-23-SA-01-content"             = "Sound /p/|Sound /b/,pie|buy,pear|bear,pill|bill,cap|cab,rope|robe";
+"txt-unit-23-SB-title"					= "B Test Yourself";
+"txt-unit-23-SC-title"					= "C Vocabulary";
+"txt-unit-23-SC-01-title"               = "1 Listen and repeat these words with the sound /b/.";
+"txt-unit-23-SC-01-content"             = "a bookshelf, a backpack, a cookbook, a birthday cake, paintbrushes, a black box, blue beads, a beautiful bracelet, October";
+"txt-unit-23-SC-02-title"               = "2 The sound /b/ is quiet at the end of a word. The vowel before it is long. Listen and repeat..";
+"txt-unit-23-SC-02-content"             = "a cab, a job, a bathrobe, a club";
+"txt-unit-23-SD-title"					= "D Dialog: \"Happy birthday!\"";
+"txt-unit-23-SE-title"					= "E Stress in Compound Nouns and Phrases";
+"txt-unit-23-SF-title"					= "F Conversation Practice";
+"txt-unit-23-SF-01-title"               = "2 Listen. Repeat the words and check your answers.";
+"txt-unit-23-SF-01-content"             = "{1,8}";
+"txt-unit-23-SF-01-01"                  = "a cook book";
+"txt-unit-23-SF-01-02"                  = "a tea pot";
+"txt-unit-23-SF-01-03"                  = "a black bag";
+"txt-unit-23-SF-01-04"                  = "a big pot";
+"txt-unit-23-SF-01-05"                  = "a funny book";
+"txt-unit-23-SF-01-06"                  = "cowboy boots";
+"txt-unit-23-SF-01-07"                  = "a sleeping bag";
+"txt-unit-23-SF-01-08"                  = "rubber boots";
+"txt-unit-23-SH-title"					= "H Common Expressions";
+"txt-unit-23-SH-01-title"               = "Listen and repeat these common expressions with the sound /b/.";
+"txt-unit-23-SH-01-content"             = "Happy birthday!|I'll be right back.|I've been busy.|I bought a book.|It's a big job.|Is there a problem?";
+
+
+"txt-unit-24-title"						= "Unit 24 /t/ • two";
+"txt-unit-24-S0-01-content"             = "Put your tongue just behind your top teeth.\nYour tongue should not touch your teeth.\nPush air forward in your mouth.\nThen quickly move your tongue away.\nDo not use your voice.\n\nListen and repeat: /t/.";
+"txt-unit-24-SA-title"					= "A Vocabulary";
+"txt-unit-24-SA-01-title"               = "1 At the beginning of a word or a stressed syllable, say /t/ with a strong puff of air.Listen and repeat.";
+"txt-unit-24-SA-01-content"             = "tall, tell the time, tem to two, toys,turn,taxi,Thailand,teenager, train,traffic,twelve twenty,fourteen,hotel";
+"txt-unit-24-SA-02-title"               = "2 After /s/, the sound /t/ does not have a strong puff of air.Listen and repeat.";
+"txt-unit-24-SA-02-content"             = "station, street, stamps, restaurant, store, taxi stand";
+"txt-unit-24-SA-03-title"               = "3 At the end of a word or syllable, /t/ is quiet. Listen and repeat.";
+"txt-unit-24-SA-03-content"             = "right, great, short, left, can't, light, exactly, best bet";
+"txt-unit-24-SA-04-title"               = "4 In American English, /t/ is \"flapped\" - pronounced like a quick /d/ - when it comes after a vowel and before an unstressed vovel. Listen and repeat.";
+"txt-unit-24-SA-04-content"             = "water, computer, letter, visitor, city, hospital";
+"txt-unit-24-SB-title"					= "B Dialog: At the visitor center";
+"txt-unit-24-SC-title"					= "C Linking a Final Consonant";
+"txt-unit-24-SF-title"					= "F Common Expressions";
+"txt-unit-24-SF-01-title"               = "Listen and repeat these common expressions with the sound /t/.";
+"txt-unit-24-SF-01-content"             = "What time is it?|What's the matter?|Take it easy!|Just a minute.|Could you tell me how to get to the train station?|Thanks! It's no trouble at all.";
+
+
+"txt-unit-25-title"						= "Unit 25 /d/ • did";
+"txt-unit-25-S0-01-content"             = "Practice the sound /t/.\nUse your voice to say /d/.\n\nListen and repeat: /d/.";
+"txt-unit-25-SA-title"					= "A Word Pairs";
+"txt-unit-25-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-25-SA-01-content"             = "Sound /t/|Sound /d/,time|dime,tore|door,try|dry,write|ride,cart|card";
+"txt-unit-25-SB-title"					= "B Test your self";
+"txt-unit-25-SC-title"					= "C Vocabulary";
+"txt-unit-25-SC-01-title"               = "Listen and repeat these words and phrases with the sound /d/.";
+"txt-unit-25-SC-01-content"             = "studied,played cards,cleaned hear bedroom,washed windows,listened to CDs,watched a DVD,called David,visited a friend,cooked a big dinner,repaired the phone,decided to stay home,heated up some food";
+"txt-unit-25-SD-title"					= "D Dialog: A missed date";
+"txt-unit-25-SE-title"					= "E -ed Endings";
+"txt-unit-25-SH-title"					= "H Common Expressions";
+"txt-unit-25-SH-01-title"               = "Listen and repeat these common expressions with the sound /d/.";
+"txt-unit-25-SH-01-content"             = "What do you do?|That's a good idea!|i don't understand.|I didn't do it.|What's today's date?|What's your address?";
+
+
+"txt-unit-26-title"						= "Unit 26 /k/ • key";
+"txt-unit-26-S0-01-content"             = "Touch the back of the roof of your mouth with the back of your tongue.\nPush air forward in your tongue away.\nDo not use your voice.\n\nListen and repeat: /k/.";
+"txt-unit-26-SA-title"					= "A Vocabulary";
+"txt-unit-26-SA-01-title"               = "1 At the beginning of a word or a stressed syllable, say /k/ with a strong puff of air.Listen and repeat.";
+"txt-unit-26-SA-01-content"             = "cook, kitchen, Canada, clean, cuckoo clock, bookcase";
+"txt-unit-26-SA-02-title"               = "2 The sound /k/ is quieter in these words.Listen an repeat.";
+"txt-unit-26-SA-02-content"             = "look, attic, junk, broken,electric,comic books";
+"txt-unit-26-SA-03-title"               = "3 The sound /k/ before another consonant sound in these words.Listen an repeat.";
+"txt-unit-26-SA-03-content"             = "six, next,expensive, extra, excuse me,| collect, perfect, connect, exactly, | quiet, question";
+"txt-unit-26-SB-title"					= "B Dialog";
+"txt-unit-26-SC-title"                  = "C Stress in Noun Phrases with Compounds";
+"txt-unit-26-SF-title"					= "F Common Expressions";
+"txt-unit-26-SF-01-title"               = "Listen and repeat these common expressions with the sound /k/.";
+"txt-unit-26-SF-01-content"             = "Excuse me.|Come in.|Thanks for calling.|Can you keep a secret?|Can I call you back?|Can I ask a question?";
+
+
+"txt-unit-27-title"						= "Unit 27 /g/ • good";
+"txt-unit-27-S0-01-content"             = "Practice the sound /k/.\nUse your voice to say /g/.\n\nListen and repeat: /g/.";
+"txt-unit-27-SA-title"					= "A Word Pairs";
+"txt-unit-27-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-27-SA-01-content"             = "Sound /k/|Sound /g/,coat|goat,curl|girl,class|glass,back|bag,clock|clog";
+"txt-unit-27-SB-title"					= "B Test Yourself";
+"txt-unit-27-SC-title"					= "C Vocabulary";
+"txt-unit-27-SC-01-title"               = "Some words below do not have the sound /g/. Circle them.\nListen. Repeat the words and check your answers.";
+"txt-unit-27-SC-01-content"             = "good,guess,long,glad,great,guitar,August,again,coming,jogging,beginning,message,get,Chicago,England,sang,big,dog,together,exactly";
+"txt-unit-27-SD-title"					= "D Dialog: Guests in August";
+"txt-unit-27-SE-title"					= "E Gonna(going to)";
+"txt-unit-27-SF-title"					= "F Conversation";
+"txt-unit-27-SF-01-title"               = "1 Listen. Which lines use the \"gonna\" pronunciation?";
+"txt-unit-27-SF-01-content"             = "{1,4}";
+"txt-unit-27-SF-01-01"                  = "A: Where are you going for vacation?";
+"txt-unit-27-SF-01-02"                  = "B: I'm going to England.";
+"txt-unit-27-SF-01-03"                  = "A: What are you going to do in England?";
+"txt-unit-27-SF-01-04"                  = "B: I'm going to go to art galleries.";
+"txt-unit-27-SH-title"					= "H Common Expressions";
+"txt-unit-27-SH-01-title"               = "Listen and repeat these common expressions with the sound /g/.";
+"txt-unit-27-SH-01-content"             = "Great!|Let's get together.|Give me a call.|Good to see you again.|I've got to go.|What are you going to (\"gonna\") do?";
+
+
+"txt-unit-28-title"						= "Unit 28 Review";
+"txt-unit-28-SA-title"					= "A Test Yourself";
+"txt-unit-28-SB-title"					= "B Vocabulary";
+"txt-unit-28-SB-01-title"               = "In each item underline the syllable that has the strongest stress.\nListen.Repeat the words and check your answers.";
+"txt-unit-28-SB-01-content"             = "kitchen,potato,cold drinks,plastic cups,a baking pan,cake plates,chocolate ice cream,a paper tablecloth,an extra table,her electric guitar";
+"txt-unit-28-SB-02-title"               = "Karen is planning a party.Listen to the list of things she needs to do.";
+"txt-unit-28-SB-02-content"             = "To Do List,Clean the kitchen!,Buy,Potato chips,cold drinks,plastic cups,a baking pan,cake plates,chocolate ice cream,a paper tablecloth,Call Ted,Ask him to bring an extra table,Ask Kate to bring her electric guitar.";
+
+
+"txt-unit-29-title"						= "Unit 29 /s/ • sun";
+"txt-unit-29-S0-01-content"             = "Touch your top teeth with the sides of your tongue.\nPut your tongue forward, behind your top teeth.\nForce air out over the top of your tongue.\nDo not use your voice.\n\nListen and repeat: /s/.";
+"txt-unit-29-SA-title"					= "A Vocabulary";
+"txt-unit-29-SA-01-title"               = "1 Listen and repeat.";
+"txt-unit-29-SA-01-content"             = "sailing, seashore,surfing,Saturday, sitting on the sand,Sunday";
+"txt-unit-29-SA-02-title"               = "2 /s/ often occurs in consonant clusters, or groups of consonant sounds.Listen and repeat.";
+"txt-unit-29-SA-02-content"             = "swimming,sleep outside,waterskiing, stay in a hotel,skating,star";
+"txt-unit-29-SA-03-title"               = "3 Listen and repeat. Circle the words that have the consonant clusters:/sp/, /ts/, or /ks/.";
+"txt-unit-29-SA-03-content"             = "silly,excellent,sports,exciting,that's,sensible,six,serious,expensive";
+"txt-unit-29-SB-title"					= "B Dialog";
+"txt-unit-29-SC-title"					= "C Linking a Final Consonant Cluster";
+"txt-unit-29-SD-title"					= "D Scrambled Conversation";
+"txt-unit-29-SD-01-title"               = "Listen and check your answers.";
+"txt-unit-29-SD-01-content"             = "{1,16}";
+"txt-unit-29-SD-01-01"                  = "A: Let's sit in the sun.";
+"txt-unit-29-SD-01-02"                  = "B: Let's sit in the shade instead.";
+"txt-unit-29-SD-01-03"                  = "A: Let's eat steak.";
+"txt-unit-29-SD-01-04"                  = "B: Let's eat pizza instead.";
+"txt-unit-29-SD-01-05"                  = "A: Let's stay in a hotel.";
+"txt-unit-29-SD-01-06"                  = "B: Let's sleep outside instead.";
+"txt-unit-29-SD-01-07"                  = "A: Let's spend all the money.";
+"txt-unit-29-SD-01-08"                  = "B: Let's save some money instead.";
+"txt-unit-29-SD-01-09"                  = "A: Let's swim in the ocean.";
+"txt-unit-29-SD-01-10"                  = "B: Let's swim int the pool instead.";
+"txt-unit-29-SD-01-11"                  = "A: Let's see a movie on Sunday.";
+"txt-unit-29-SD-01-12"                  = "B: Let's study on Sunday instead.";
+"txt-unit-29-SD-01-13"                  = "A: Let's ask Stacy.";
+"txt-unit-29-SD-01-14"                  = "B: Let's ask Steve instead instead.";
+"txt-unit-29-SD-01-15"                  = "A: Let's speak Spanish.";
+"txt-unit-29-SD-01-16"                  = "B: Let's speak English instead.";
+"txt-unit-29-SE-title"					= "E Interview: Personality test";
+"txt-unit-29-SG-title"					= "G Common Expressions";
+"txt-unit-29-SG-01-title"               = "Listen and repeat these common expressions with the sound /s/.";
+"txt-unit-29-SG-01-content"             = "Sorry.|Smile!|Lets see.|Sit still.|Speak slowly.|See you soon.";
+
+
+"txt-unit-30-title"						= "Unit 30 /z/ • zoo";
+"txt-unit-30-S0-01-content"             = "Practice the sound /s/.\nUse your voice to say /z/.\n\nListen and repeat: /z/.";
+"txt-unit-30-SA-title"					= "A Word Pairs";
+"txt-unit-30-SA-01-title"               = "1 Listen to these word pairs.";
+"txt-unit-30-SA-01-content"             = "Sound /s/|Sound /z/,Sue|zoo,sip|zip,bus|buzz,price|prize,lacy|lazy";
+"txt-unit-30-SB-title"					= "B Test Yourself";
+"txt-unit-30-SC-title"					= "C Vocabulary";
+"txt-unit-30-SC-01-title"               = "Four of these words do not have sound /z/.Circle the words that do not have the sound /z/.";
+"txt-unit-30-SC-01-content"             = "buzzing,hissing,noise,amazing,these,this,isn't,there's,does,case,smells,snakes,bees,says,surprising";
+"txt-unit-30-SD-title"					= "D Dialog: Surprises in the post office";
+"txt-unit-30-SE-title"					= "E -s Endings";
+"txt-unit-30-SH-title"					= "I Common Expressions";
+"txt-unit-30-SH-01-title"               = "Listen and repeat these common expressions with the sound /z/.";
+"txt-unit-30-SH-01-content"             = "Please.|Exactly!|Whose is it?|It wasn't easy.|Isn't amazing?|I was surprised.";
+
+
+"txt-unit-31-title"						= "Unit 31 /ʃ/ • shoe";
+"txt-unit-31-S0-01-content"             = "Practice teh sound /s/.\nPut the tip of your tongue up and back a little to make /ʃ/.\nPush your tips forward a little into a circle.\n\nListen and repeat: /ʃ/.";
+"txt-unit-31-SA-title"					= "A Word Pairs";
+"txt-unit-31-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-31-SA-01-content"             = "Sound /s/|Sound /ʃ/,Sue|shoe,seats|sheets,sell|shell,sign|shine,lease 租契|leash 皮带";
+"txt-unit-31-SB-title"					= "B Test Yourself";
+"txt-unit-31-SC-title"					= "C Vocabulary";
+"txt-unit-31-SC-01-title"               = "Listen and repeat these words with the sound /ʃ/.";
+"txt-unit-31-SC-01-content"             = "shake, sure, short,shirts,shrink 收缩,shouldn't, washes,special,push,English,Danish,Swedish,finished,washing machine,information,demonstration";
+"txt-unit-31-SD-title"					= "D Dialog: A special washing machine";
+"txt-unit-31-SE-title"					= "E Linking Words with /ʃ/";
+"txt-unit-31-SH-title"					= "H Common Expressions";
+"txt-unit-31-SH-01-title"               = "Listen and repeat these common expressions with the sound /ʃ/.";
+"txt-unit-31-SH-01-content"             = "Shhhh!|I'm not sure.|Are you finished?|I'm going shopping.|What should I do?|I need some information.";
+
+
+"txt-unit-32-title"						= "Unit 32 /ʒ/ • television";
+"txt-unit-32-S0-01-content"             = "Practice the sound /ʃ/.\nUse your voice to say /ʒ/.\n\nListen and repeat: /ʒ/.";
+"txt-unit-32-SA-title"					= "A Vocabulary";
+"txt-unit-32-SA-01-title"               = "Listen and repeat these words with the sound /ʒ/.";
+"txt-unit-32-SA-01-content"             = "measure,treasure,leisure 休闲,collision, television,Asia,casual clothes, garage,decision";
+"txt-unit-32-SA-02-title"               = "Listen and repeat the names of these television shows.";
+"txt-unit-32-SA-02-content"             = "6:00pm It's a Pleasure, Special guest: The author of Decisions-Decisions, 6:30pm What's the Occasion?, 7:00pm Movie:Treasure Island, 9:00pm News:An unusual collision, 9:30pm Casual Chic,10:00pm Trash to Treasure, 10:30pm Measure Twice, 11:00pm Destionation:Asia, 12:00pm Movie:Invasion of the Marticians";
+"txt-unit-32-SB-title"					= "B Annoucement: Television tonight on the Leisure Channel";
+"txt-unit-32-SC-title"					= "C Stress in Words with -ion";
+"txt-unit-32-SD-title"					= "D Survey";
+"txt-unit-32-SF-title"					= "F Common Expressions";
+"txt-unit-32-SF-01-title"               = "Listen and repeat these common expressions with the sound /ʒ/.";
+"txt-unit-32-SF-01-content"             = "Thank you. My pleasure.|What's on television?|What's your decision?|Is it a special occasion?|I usually wear casual clothes.";
+
+
+"txt-unit-33-title"						= "Unit 33 /tʃ/ • chips";
+"txt-unit-33-S0-01-content"             = "Practice the sound /t/ and /ʃ/.\nTo say /tʃ/, begin to make /t/.\nThen move your tongue back and away from the roof of your mouth as you say /ʃ/.\nDo not use your voice.\n\nListen and repeat: /tʃ/.";
+"txt-unit-33-SA-title"					= "A Word Pairs";
+"txt-unit-33-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-33-SA-01-content"             = "Sound /ʃ/|Sound /tʃ/,shop|chop 砍，剁,sheep|cheap,ships|chips,cash|catch,wash|watch";
+"txt-unit-33-SB-title"					= "B Test Yourself";
+"txt-unit-33-SC-title"					= "C Vocabulary";
+"txt-unit-33-SC-01-title"               = "Listen and repeat the names of these foods.";
+"txt-unit-33-SC-01-content"             = "cheese,chicken,chips,cherries 樱桃,chocolate,a chili pepper,artichokes 洋藓, spinach 菠菜, a sandwich";
+"txt-unit-33-SD-title"					= "D Dialog: Cooking show";
+"txt-unit-33-SE-title"					= "E Silent Syllables";
+"txt-unit-33-SH-title"					= "H Common Expressions";
+"txt-unit-33-SH-01-title"               = "Listen and repeat these common expressions with the sound /tʃ/.";
+"txt-unit-33-SH-01-content"             = "How much is it?|Cash or charge?|Any questions?|He's an English teacher.|I'll have a cheese sanwich.|Which one did you choose?";
+
+
+"txt-unit-34-title"						= "Unit 34 /dʒ/ • joke";
+"txt-unit-34-S0-01-content"             = "Practice the sound /tʃ/.\nUse your voice to say /dʒ/.\n\nListen and repeat: /dʒ/.";
+"txt-unit-34-SA-title"					= "A Word Pairs";
+"txt-unit-34-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-34-SA-01-content"             = "Sound /tʃ/|Sound /dʒ/,cheap|jeep,choke 窒息|joke,chears|jeers 奚落,H|age,batch|badage 徽章";
+"txt-unit-34-SB-title"					= "B Test Yourself";
+"txt-unit-34-SC-title"					= "C Vocabulary";
+"txt-unit-34-SC-01-title"               = "Listen and repeat these words with the sound /dʒ/.";
+"txt-unit-34-SC-01-content"             = "job, joking,July,Japanese,German,major,enjoys,agency,subjects,psychology,graduated,languages,college,knowledge,change,challenge,management,individuals";
+"txt-unit-34-SD-title"					= "D Dialog: Did you get the job?";
+"txt-unit-34-SE-title"					= "E Didja;Wouldja;Didncha,Doncha";
+"txt-unit-34-SF-title"					= "F Srambled Conversation";
+"txt-unit-34-SF-01-title"               = "Listen and check your answers.";
+"txt-unit-34-SF-01-content"             = "{1,16}";
+"txt-unit-34-SF-01-01"                  = "A: Why don't you tell me about yourself?";
+"txt-unit-34-SF-01-02"                  = "B: What would you like to known?";
+"txt-unit-34-SF-01-03"                  = "A: Where did you go to college?";
+"txt-unit-34-SF-01-04"                  = "B: In Japan.";
+"txt-unit-34-SF-01-05"                  = "A: When did you graduate?";
+"txt-unit-34-SF-01-06"                  = "B: In June.";
+"txt-unit-34-SF-01-07"                  = "A: What did you major in?";
+"txt-unit-34-SF-01-08"                  = "B: Engineering.";
+"txt-unit-34-SF-01-09"                  = "A: What subjects did you enjoy in school?";
+"txt-unit-34-SF-01-10"                  = "B: My favorite subjects were biology and gym.";
+"txt-unit-34-SF-01-11"                  = "A: What would your dream job be?";
+"txt-unit-34-SF-01-12"                  = "B: Managing a travel agency.";
+"txt-unit-34-SF-01-13"                  = "A: What didn't you like about your last job?";
+"txt-unit-34-SF-01-14"                  = "B: It wasn't challenging enough.";
+"txt-unit-34-SF-01-15"                  = "A: Could you start on July 8th?";
+"txt-unit-34-SF-01-16"                  = "B: Yes, I could.";
+"txt-unit-34-SI-title"					= "I Common Expressions";
+"txt-unit-34-SI-01-title"               = "Listen and repeat these common expressions with the sound /dʒ/.";
+"txt-unit-34-SI-01-content"             = "I was just joking.|When did you graduate from college?|What did you major in?|Did you get the job?|Would you like some orange juice?|You need a college education.";
+
+
+"txt-unit-35-title"						= "Unit 35 Review";
+"txt-unit-35-SA-title"					= "A Test Yourself";
+"txt-unit-35-SB-title"					= "B Vocabulary";
+"txt-unit-35-SB-01-title"               = "Listen to these words with sound /s/, /z/, /ʃ/, /ʒ, /tʃ/, /dʒ/.";
+"txt-unit-35-SB-01-content"             = "six,seven,sleepy,exercise,delicious,cheese,lazy,machines,exercise,should,wash,shopping,machines,delicious,television,cheese,watch,change,gym,change, vegetable";
+"txt-unit-35-SC-title"					= "C Thoughts: Saturday decisions";
+
+
+"txt-unit-36-title"						= "Unit 36 /j/ • yes";
+"txt-unit-36-S0-01-content"             = "Practice the sound /i/.\nTo say /j/, begin to make /i/, but quickly move your tongue to make the next sound.\nDo not touch the roof of your mouth with your tongue.\n\nListen and repeat: /j/.";
+"txt-unit-36-SA-title"					= "A Word Pairs";
+"txt-unit-36-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-36-SA-01-content"             = "Sound /dʒ/|Sound /j/,joke|yolk 蛋黄,jam|yam 山药,jail|Yale,jeers|years,Jess|yes";
+"txt-unit-36-SB-title"					= "B Test Yourself";
+"txt-unit-36-SC-title"					= "C Vocabulary";
+"txt-unit-36-SC-01-title"               = "Listen and repeat these words with the sound /j/.";
+"txt-unit-36-SC-01-content"             = "young,yesterday,yoga,yellow,New York,California,music,musician,computer,a few, huge,future,familiar,peculiar,university,millionaire";
+"txt-unit-36-SD-title"					= "D Dialog: A music student";
+"txt-unit-36-SE-title"					= "E Useta(used to)";
+"txt-unit-36-SH-title"					= "H Common Expressions";
+"txt-unit-36-SH-01-title"               = "Listen and repeat these common expressions with the sound /j/.";
+"txt-unit-36-SH-01-content"             = "Yes, I am.|Can I use your computer?|Do you listen to popular music?|a few years.|Where did you use to live?|the European Union";
+
+
+"txt-unit-37-title"						= "Unit 37 /f/ • fan";
+"txt-unit-37-S0-01-content"             = "Touch your top teeth with your bottom lip.\nBlow out air between your lip and teeth.\nDo not use your voice.\n\nListen and repeat: /f/.";
+"txt-unit-37-SA-title"					= "A Word Pairs";
+"txt-unit-37-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-37-SA-01-content"             = "Sound /p/|Sound /f/,pan|fan,pull|full,peel 剥落|feel,copy|coffee,cup|cuff 袖子";
+"txt-unit-37-SB-title"					= "B Test Yourself";
+"txt-unit-37-SC-title"					= "C Vocabulary";
+"txt-unit-37-SC-01-title"               = "Listen and repeat these words with the sound /f/.";
+"txt-unit-37-SC-01-content"             = "funny,form,first,phone,front,family,February,difficult,prefer,cheerfull,photographs,photographer,myself,if, laugh,enough";
+"txt-unit-37-SD-title"					= "D Dialog: Family photo";
+"txt-unit-37-SE-title"					= "E Intonation in Long Sentences";
+"txt-unit-37-SF-title"					= "F Srambled Sentences";
+"txt-unit-37-SH-title"					= "H Common Expressions";
+"txt-unit-37-SH-01-title"               = "Listen and repeat these common expressions with the sound /f/.";
+"txt-unit-37-SH-01-content"             = "Don't forget.|Have fun!|How do you fell? I feel fine.|Is it far from here?|It's five after four.|Fill out this form.";
+
+
+"txt-unit-38-title"						= "Unit 38 /v/ • very";
+"txt-unit-38-S0-01-content"             = "Practice the sound /f/.\nUse your voice to say /v/.\n\nListen and repeat: /v/.";
+"txt-unit-38-SA-title"					= "A Word Pairs 1";
+"txt-unit-38-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-38-SA-01-content"             = "Sound /b/|Sound /v/,ban|van,B|V,best|vest 背心,boat|vote,cabs|calves 牛犊";
+"txt-unit-38-SB-title"					= "B Word Pairs 2";
+"txt-unit-38-SB-01-title"               = "Listen to these word pairs.";
+"txt-unit-38-SB-01-content"             = "Sound /f/|Sound /v/,fan|van,fine|vine,few|view,leaf|leave";
+"txt-unit-38-SC-title"					= "C Test Yourself";
+"txt-unit-38-SD-title"					= "D Vocabulary";
+"txt-unit-38-SD-01-title"               = "Listen and repeat these words with the sound /v/.";
+"txt-unit-38-SD-01-content"             = "very,valley,view,visit,november,favorite,river,living,love,five,moved,traveled";
+"txt-unit-38-SE-title"					= "E Dialog: A view of the valley";
+"txt-unit-38-SF-title"					= "F Weak and Strong Pronunciations of have";
+"txt-unit-38-SI-title"					= "I Common Expressions";
+"txt-unit-38-SI-01-title"               = "Listen and repeat these common expressions with the sound /v/.";
+"txt-unit-38-SI-01-content"             = "I don't believe it.|It's very expensive.|How long have you lived here?|I've lived here for five years.|I've never been there.";
+
+
+"txt-unit-39-title"						= "Unit 39 /w/ • wet";
+"txt-unit-39-S0-01-content"             = "Practice the sound /u/.\nMake your lips round and hard for /w/.\nQuickly relax your lips.\n\n\nListen and repeat: /w/.";
+"txt-unit-39-SA-title"					= "A Word Pairs";
+"txt-unit-39-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-39-SA-01-content"             = "Sound /v/|Sound /w/,V|we,vet|wet,vest|west,vine|wine,veil|well";
+"txt-unit-39-SB-title"					= "B Test Yourself";
+"txt-unit-39-SC-title"					= "C Vocabulary";
+"txt-unit-39-SC-01-title"               = "Listen. How many /w/ sounds do you hear in each phrase?";
+"txt-unit-39-SC-01-content"             = "1 a heavy wool sweater,2 very windy,3 went for a walk, 4 near the highway, 5 the whole day, 6 watched the squirrels, 7 around one,8 swa him on Wednesday, 9 twelve,10 it was very quiet, 11 walking in the woods, 12 we walked quickly";
+"txt-unit-39-SD-title"					= "D Dialog: A walk in the woods";
+"txt-unit-39-SE-title"					= "E Wh- Questions with Rising Intonation";
+"txt-unit-39-SF-title"					= "F Conversation Practice";
+"txt-unit-39-SF-01-title"               = "Read the conversation bellow with rising or falling intonation.\nListen to the conversation and check you answers.\nThen practice the conversation with your partner. ";
+"txt-unit-39-SF-01-content"             = "{1,13}";
+"txt-unit-39-SF-01-01"                  = "A: I'm going to a wedding this weekend.";
+"txt-unit-39-SF-01-02"                  = "B: What?___";
+"txt-unit-39-SF-01-03"                  = "A: I'm going to a wedding.";
+"txt-unit-39-SF-01-04"                  = "B: Who's getting married?___";
+"txt-unit-39-SF-01-05"                  = "A: Willa.";
+"txt-unit-39-SF-01-06"                  = "B: Who?___";
+"txt-unit-39-SF-01-07"                  = "A: Willa - a woman I work with.";
+"txt-unit-39-SF-01-08"                  = "B: When did you say the wedding was?___";
+"txt-unit-39-SF-01-09"                  = "A: This weekend.";
+"txt-unit-39-SF-01-10"                  = "B: When?___";
+"txt-unit-39-SF-01-11"                  = "A: Sunday at twelve.";
+"txt-unit-39-SF-01-12"                  = "B: What are you going to wear?___";
+"txt-unit-39-SF-01-13"                  = "A: A black-and-white wool suit.";
+"txt-unit-39-SH-title"					= "H Common Expressions";
+"txt-unit-39-SH-01-title"               = "Listen and repeat these common expressions with the sound /w/.";
+"txt-unit-39-SH-01-content"             = "You're welcome.|Don't worry.|What would you like?|Where do you work?|What languages do you speak?|The class meets once a week.";
+
+
+"txt-unit-40-title"						= "Unit 40 /h/ • how";
+"txt-unit-40-S0-01-content"             = "Open your mouth.\nQuickly push out a lot of air.\nDo not use your voice.\nDo not touch the roof of your mouth with your tongue.\n\nListen and repeat: /h/.";
+"txt-unit-40-SA-title"					= "A Word Pairs";
+"txt-unit-40-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-40-SA-01-content"             = "Sound no /h/|Sound /h/,eat|heat,old|hold,eye|high,air|hair,earring|hearing";
+"txt-unit-40-SB-title"					= "B Test Yourself";
+"txt-unit-40-SC-title"					= "C Vocabulary";
+"txt-unit-40-SC-01-title"               = "Some words below, the letter h is usuarlly silent. Find these word.\nListen.Repeat these words and check your answers.";
+"txt-unit-40-SC-01-content"             = "how, who, ox,heard,house,hours,hurt,husband,vehicle,hit,behind,half,hope,horrible,happened,exhausted,home,what,hospital,unharmed";
+"txt-unit-40-SD-title"					= "D Dialog: A horrible accident";
+"txt-unit-40-SE-title"					= "E Dropped /h/";
+"txt-unit-40-SF-title"					= "F Intonation in Exclamations";
+"txt-unit-40-SG-title"					= "G Conversation Practice";
+"txt-unit-40-SG-01-title"               = "Practice with a partner.\nStudent A uses the names and sentences in the table, in any order.\nStudent B responds with an exclamation form task F.\nListen th this example.";
+"txt-unit-40-SG-01-content"             = "{1,12}";
+"txt-unit-40-SG-01-01"                  = "A: Have you heared about Harry?";
+"txt-unit-40-SG-01-02"                  = "B: No. What happened?";
+"txt-unit-40-SG-01-03"                  = "A: He spent his whole vacation in the hospital.";
+"txt-unit-40-SG-01-04"                  = "B: How awful!";
+"txt-unit-40-SG-01-05"                  = "Harry - He had an accident and had to go to the hospital.";
+"txt-unit-40-SG-01-06"                  = "Henry - He had a heart attack.";
+"txt-unit-40-SG-01-07"                  = "Hannah - He won eight hundred dollars.";
+"txt-unit-40-SG-01-08"                  = "Anna - He hurt both his hands and can't hold anything.";
+"txt-unit-40-SG-01-09"                  = "Hannah's father - She and her husband bought a huge house in Havaii.";
+"txt-unit-40-SG-01-10"                  = "Anna's husband - She fell off a hourse and hit her head.";
+"txt-unit-40-SG-01-11"                  = "Howard - A helicopter hit his house.";
+"txt-unit-40-SG-01-12"                  = "Andrew - He spent his whole vacation in the hospital.";
+"txt-unit-40-SI-title"					= "I Common Expressions";
+"txt-unit-40-SI-01-title"               = "Listen and repeat these common expressions with the sound /h/.";
+"txt-unit-40-SI-01-content"             = "Hi!How are you?|Happy Holidays!|Can i help you?|I hope so.|What happened?|Have you heard?";
+
+
+"txt-unit-41-title"						= "Unit 41 /θ/ • think";
+"txt-unit-41-S0-01-content"             = "Put the tip of your tongue between your front teeth.\nBlow out air between your tongue and top teeth.\nDo not use your voice.\n\nListen and repeat: /θ/.";
+"txt-unit-41-SA-title"					= "A Word Pairs 1";
+"txt-unit-41-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-41-SA-01-content"             = "Sound /s/|Sound /θ/,sick|thick,sum|thumb,sink|think,mouse|mouth,pass|path";
+"txt-unit-41-SB-title"					= "B Word Pairs 2";
+"txt-unit-41-SB-01-title"               = "Listen to these word pairs.";
+"txt-unit-41-SB-01-content"             = "Sound /t/|Sound /θ/,tie|thigh 大腿,tree|three,tanks|thanks,bat|bath";
+"txt-unit-41-SC-title"					= "C Test your self";
+"txt-unit-41-SD-title"					= "D Vocabulary";
+"txt-unit-41-SD-01-title"               = "Listen and repeat these words with the sound /θ/.";
+"txt-unit-41-SD-01-content"             = "thank you, thought, thousand,thirsty,Thursday,thirty-three, author, anything, something, birthday, athlete, math, fourth, worth, month";
+"txt-unit-41-SE-title"					= "E Dialog: Gossip";
+"txt-unit-41-SF-title"					= "F Using Stress and Intonation to Show Surprise";
+"txt-unit-41-SG-title"					= "G Conversation Practice";
+"txt-unit-41-SG-01-title"               = "Work with a partner. Correct the mistake in the sentences.\nStudent A says the incorrect sentence.\nStudent B shows surprise and then corrects the mistake.\nListen to this example.";
+"txt-unit-41-SG-01-content"             = "{1,10}";
+"txt-unit-41-SG-01-01"                  = "A: March is the fourth month of the year.";
+"txt-unit-41-SG-01-02"                  = "B: Is it? I thought it was the third month of the year.";
+"txt-unit-41-SG-01-03"                  = "1. August is the seventh month of the year.";
+"txt-unit-41-SG-01-04"                  = "2. New York is south of Miami.";
+"txt-unit-41-SG-01-05"                  = "3. There are four feet in a yard.";
+"txt-unit-41-SG-01-06"                  = "4. Athens is north of Rome.";
+"txt-unit-41-SG-01-07"                  = "5. Agatha Christie was a famous author of history books.";
+"txt-unit-41-SG-01-08"                  = "6. Valentine's Day is on January 14th.";
+"txt-unit-41-SG-01-09"                  = "7. New Year's Eve is on December 30th.";
+"txt-unit-41-SG-01-10"                  = "8. Last year was 2005.";
+"txt-unit-41-SI-title"					= "I Common Expressions";
+"txt-unit-41-SI-01-title"               = "Listen and repeat these common expressions with the sound /θ/.";
+"txt-unit-41-SI-01-content"             = "Thank you.|I think so.|Thanks for thinking of me!|I'm thirsty.|Today is my thirtieth birthday.|I'm free on Tuesdays and Thursdays.";
+
+
+"txt-unit-42-title"						= "Unit 42 /ð/ • the other";
+"txt-unit-42-S0-01-content"             = "Practice the sound /θ/.\nUse your voice to say /ð/.\n\nListen and repeat: /ð/.";
+"txt-unit-42-SA-title"					= "A Word Pairs 1";
+"txt-unit-42-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-42-SA-01-content"             = "Sound /d/|Sound /ð/,day|they,dare|there,doze|those,ladder|lather 泡沫,breed|breathe";
+"txt-unit-42-SB-title"					= "B Word Pairs 2";
+"txt-unit-42-SB-01-title"               = "Listen to these word pairs.";
+"txt-unit-42-SB-01-content"             = "Sound /z/|Sound /ð/,closing|clothing,bays 海湾|bathe 沐浴,breeze|breathe,tease 取笑|teethe";
+"txt-unit-42-SC-title"					= "C Test Yourself";
+"txt-unit-42-SD-title"					= "D Vocabulary";
+"txt-unit-42-SD-01-title"               = "Find the words that have the shound /θ/.\nListen. Repeat these words and check your answers.";
+"txt-unit-42-SD-01-content"             = "this, that, think,though,there,three,together,leather 皮革,weather,another,anything,either,Thursday,rather,smoother,the other";
+"txt-unit-42-SE-title"					= "E Dialog: The jacket in the window";
+"txt-unit-42-SF-title"					= "F Weak Pronunciations for the and than";
+"txt-unit-42-SI-title"					= "I Common Expressions";
+"txt-unit-42-SI-01-title"               = "Listen and repeat these common expressions with the sound /ð/.";
+"txt-unit-42-SI-01-content"             = "my mother and father.|What's the weather like?|I'd rather not answer that.|eiter this one or that one.|Did they go there together?|This one is better than the others.";
+
+
+"txt-unit-43-title"						= "Unit 43 Review";
+"txt-unit-43-SA-title"					= "A Test Yourself";
+"txt-unit-43-SB-title"					= "B Conversations";
+"txt-unit-43-SB-01-title"               = "Listen to B's response in each conversation below and underline the word that sounds stands out the most.\nThen put a check next to the sentence that A probaly said.";
+"txt-unit-43-SB-01-content"             = "{1,24}";
+"txt-unit-43-SB-01-01"                  = "A: ___ Do you work in New York?";
+"txt-unit-43-SB-01-02"                  = "   ___ Did you use to live in New York?";
+"txt-unit-43-SB-01-03"                  = "B: No, but I used to work here.";
+"txt-unit-43-SB-01-04"                  = "A: ___ Does he have any brothers or sisters?";
+"txt-unit-43-SB-01-05"                  = "   ___ I think he has three brothers.";
+"txt-unit-43-SB-01-06"                  = "B: Ha has four brothers.";
+"txt-unit-43-SB-01-07"                  = "A: ___ How long have they lived here?";
+"txt-unit-43-SB-01-08"                  = "   ___ They've lived here for five years.";
+"txt-unit-43-SB-01-09"                  = "B: More than five years.";
+"txt-unit-43-SB-01-10"                  = "A: ___ When is her interview?";
+"txt-unit-43-SB-01-11"                  = "   ___ Her interview is at 1:30.";
+"txt-unit-43-SB-01-12"                  = "B: I think it's at 12:30.";
+"txt-unit-43-SB-01-13"                  = "A: ___ Does he have any brothers or sisters?";
+"txt-unit-43-SB-01-14"                  = "   ___ I think he has three brothers.";
+"txt-unit-43-SB-01-15"                  = "B: He has four brothers";
+"txt-unit-43-SB-01-16"                  = "A: ___ When is her interview?";
+"txt-unit-43-SB-01-17"                  = "   ___ Her interview is at 1:30.";
+"txt-unit-43-SB-01-18"                  = "B: I think it's at 12:30.";
+"txt-unit-43-SB-01-19"                  = "A: ___ Do you work in New York?";
+"txt-unit-43-SB-01-20"                  = "   ___ Did you use to live in New York?";
+"txt-unit-43-SB-01-21"                  = "B: No, but I used to work here.";
+"txt-unit-43-SB-01-22"                  = "A: ___ How long have they lived here?";
+"txt-unit-43-SB-01-23"                  = "   ___ Then've lived here for five years.";
+"txt-unit-43-SB-01-24"                  = "B: More than five years.";
+
+
+"txt-unit-44-title"						= "Unit 44 /m/ • me";
+"txt-unit-44-S0-01-content"             = "Close your lips.\nUse your voice.\nThe sound /m/ comes through your nose.\n\nListen and repeat: /m/.";
+"txt-unit-44-SA-title"					= "A Vocabulary";
+"txt-unit-44-SA-01-title"               = "Listen and repeat these words with the sound /m/.";
+"txt-unit-44-SA-01-content"             = "make, met,remember,tomorrow,summer,small,smart,home,time,comes,Mom,homemade";
+"txt-unit-44-SB-title"					= "B Dialog:Mom's muffins";
+"txt-unit-44-SC-title"					= "C Using Intonation to Change Meaning";
+"txt-unit-44-SD-title"					= "D Conversaion";
+"txt-unit-44-SD-01-title"               = "Listen to this conversation.\Say which meaning Mm has in B's answers.";
+"txt-unit-44-SD-01-content"             = "{1, 14}";
+"txt-unit-44-SD-01-01"                  = "A: Would you like some homemade muffins?";
+"txt-unit-44-SD-01-02"                  = "B: Mm?";
+"txt-unit-44-SD-01-03"                  = "A: Would you like some muffins?";
+"txt-unit-44-SD-01-04"                  = "B: Mm.";
+"txt-unit-44-SD-01-05"                  = "A: Here you are.";
+"txt-unit-44-SD-01-06"                  = "B: (eating) Mm!";
+"txt-unit-44-SD-01-07"                  = "A: I'm glad you like them. I make them myself.Would you like jam with them?";
+"txt-unit-44-SD-01-08"                  = "B: Mm?";
+"txt-unit-44-SD-01-09"                  = "A: Jam.";
+"txt-unit-44-SD-01-10"                  = "B: Mm...";
+"txt-unit-44-SD-01-11"                  = "A: They're yummy with jam. Want some?";
+"txt-unit-44-SD-01-12"                  = "B: Mm.";
+"txt-unit-44-SD-01-13"                  = "A: Here your are.";
+"txt-unit-44-SD-01-14"                  = "B: (eating) Mm!";
+"txt-unit-44-SF-title"					= "F Common Expressions";
+"txt-unit-44-SF-01-title"               = "Listen and repeat these common expressions with the sound /m/.";
+"txt-unit-44-SF-01-content"             = "My name is...|I'm sorry.|I don't remember.|Have some more.|Sometimes.|Maybe.";
+
+
+"txt-unit-45-title"						= "Unit 45 /n/ • no";
+"txt-unit-45-S0-01-content"             = "Put the tip of your tongue on the roof of your mouth just behind your top teeth.\nDo not use your lips.\nUse your voice.\nThe sound /n/ comes through your nose.\n\nListen and repeat: /n/.";
+"txt-unit-45-SA-title"					= "A Word Pairs";
+"txt-unit-45-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-45-SA-01-content"             = "Sound /m/|Sound /n/,me|knee,mail|nail,mine|nime,comb 梳子|cone,gum 口香糖|gun";
+"txt-unit-45-SB-title"					= "B Test Yourself";
+"txt-unit-45-SC-title"					= "C Vocabulary";
+"txt-unit-45-SC-01-title"               = "Listen and repeat these words with the sound /n/.";
+"txt-unit-45-SC-01-content"             = "new, nice,noise,neightborhood,midnight,spend,don't,tenant 房客, convenient";
+"txt-unit-45-SC-02-title"               = "Say /n/ clearly at the end of a word. Listen and repeat.";
+"txt-unit-45-SC-02-content"             = "one, nine,fifteen,seven,eleven,I mean,kitchen,downtown, train station";
+"txt-unit-45-SC-03-title"               = "Listen and repeat these words with the sound /n/.";
+"txt-unit-45-SC-03-content"             = "new, nice,fifteen,seven,eleven,I mean,kitchen,downtown, train station";
+"txt-unit-45-SD-title"					= "D Dialog: At a rental agency";
+"txt-unit-45-SE-title"					= "E Syllabic /n/";
+"txt-unit-45-SI-title"					= "I Common Expressions";
+"txt-unit-45-SI-01-title"               = "Listen and repeat these common expressions with the sound /n/.";
+"txt-unit-45-SI-01-content"             = "No, I didn't.|I don't want to.|Not now.|I'll be ready in a minute.|I don't known the answer.|I'm not done.";
+
+
+"txt-unit-46-title"						= "Unit 46 /ŋ/ • sing";
+"txt-unit-46-S0-01-content"             = "Touch the back of the roof of your mouth with the back of your tongue.\nUse your voice.\nThe sound /ŋ/ comes through your nose.\n\nListen and repeat: /ŋ/.";
+"txt-unit-46-SA-title"					= "A Word Pairs 1";
+"txt-unit-46-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-46-SA-01-content"             = "Sound /ŋ/|Sound /ŋ/,thin|thing,ban|bang,ran|rang,fans|fangs 尖牙,wins|wings";
+"txt-unit-46-SB-title"					= "B Word Pairs 2";
+"txt-unit-46-SB-01-title"               = "Listen to these word pairs.";
+"txt-unit-46-SB-01-content"             = "Sound /ŋk/|Sound /ŋ/,think|thing,bank|bang,sink|sing,rink 溜冰场|ring";
+"txt-unit-46-SC-title"					= "C Test Yourself";
+"txt-unit-46-SD-title"					= "D Vocabulary";
+"txt-unit-46-SD-01-title"               = "Listen and repeat these words with the sound /ŋ/.";
+"txt-unit-46-SD-01-content"             = "string, pink, morning, falling, running, talking, sleeping, yelling, tying, standing, helping, reaching";
+"txt-unit-46-SE-title"					= "E Dialog: Noisy neighbors";
+"txt-unit-46-SF-title"					= "F Weak Pronuciation an Contraction of be";
+"txt-unit-46-SI-title"					= "I Common Expressions";
+"txt-unit-46-SI-01-title"               = "Listen and repeat these common expressions with the sound /ŋ/.";
+"txt-unit-46-SI-01-content"             = "Good morning.|I'm hungry.|Is something wrong?|The phone is ringing.|I've been waiting a long time.|How long have you been studying English?";
+
+
+"txt-unit-47-title"						= "Unit 47 /l/ • light, fall";
+"txt-unit-47-S1-title"                  = "Pronuciation";
+"txt-unit-47-S1-01-content"             = "Put the tip of your tongue just behind your front teeth.\nUse your voice.\nTo make the sound /l/, the air goes over the sides of your tongue and out of your mouth.\n\nListen and repeat: /l/.";
+"txt-unit-47-S2-title"                  = "Pronuciation";
+"txt-unit-47-S2-01-content"             = "/l/ sounds a little different at the end of a word or before a consonant.\nAs you say /l/, raise the back of your tongue toward the roof of your mouth.\n\nListen and repeat: /l/.";
+"txt-unit-47-SA-title"					= "A Word Pairs 1";
+"txt-unit-47-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-47-SA-01-content"             = "Sound /n/|Sound /l/,night|light,no|low,nine|line,connect|collect,snow|slow";
+"txt-unit-47-SB-title"					= "B Word Pairs 2";
+"txt-unit-47-SB-01-title"               = "Listen to these word pairs.";
+"txt-unit-47-SB-01-content"             = "Sound /n/|Sound /l/,ten|tell,pin|pill,bone|bowl,mine|mile";
+"txt-unit-47-SC-title"					= "C Test Yourself";
+"txt-unit-47-SD-title"					= "D Vocabulary";
+"txt-unit-47-SD-01-title"               = "Listen and repeat these words with the sound /l/.";
+"txt-unit-47-SD-01-content"             = "listen,look,hello,a lot, late, early,college,relax,usually,eleven o'clock,alarm clock,English class";
+"txt-unit-47-SD-02-title"               = "The sound /l/ has a different, heavier sound at the end of a word or before a consonant. Listen and repeat.";
+"txt-unit-47-SD-02-content"             = "call,well,cool,help,cold,people,trouble,simple,difficult,almost always,fall sleep,a glass of milk";
+"txt-unit-47-SE-title"					= "E Dialog: Night owl";
+"txt-unit-47-SF-title"					= "F Weak Pronuciation and Contraction of will";
+"txt-unit-47-SI-title"					= "I Common Expressions";
+"txt-unit-47-SI-01-title"               = "Listen and repeat these common expressions with the sound /l/.";
+"txt-unit-47-SI-01-content"             = "Look out!|I'll call you later.|I don't feel well.|I'm leaving in a little while.|I fell asleep.|Lots of luck!";
+
+
+"txt-unit-48-title"						= "Unit 48 /r/ • right";
+"txt-unit-48-S0-01-content"             = "Turn the tip of your tongue up.\nDo not touch the roof of you mouth with the tip of your tongue.\nMake you lips a little round.\n\nListen and repeat: /r/.";
+"txt-unit-48-SA-title"					= "A Word Pairs";
+"txt-unit-48-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-48-SA-01-content"             = "Sound /l/|Sound /r/,long|wrong,light|right,pilot|pirate 海盗,glass|grass,cloud|crowd";
+"txt-unit-48-SB-title"					= "B Test Yourself";
+"txt-unit-48-SC-title"					= "C Vocabulary";
+"txt-unit-48-SC-01-title"               = "Listen and repeat these words with the sound /r/.";
+"txt-unit-48-SC-01-content"             = "reading, sorry, writer,reporter,romatic,married,American,French,bright,drawing,interesting,creative,remember,regards,require,photographer";
+"txt-unit-48-SC-02-title"               = "These words have both the sounds /r/ and /l/.\nListen and repeat.";
+"txt-unit-48-SC-02-content"             = "realy,friendly,stressful,practical,translate,grandchildren,responsibility, congratulations,electrician,library,librarian,air traffic controller";
+"txt-unit-48-SD-title"					= "D Dialog: Proud parents";
+"txt-unit-48-SE-title"					= "E Stress in Long Words";
+"txt-unit-48-SF-title"					= "F Srambled Conversation";
+"txt-unit-48-SH-title"					= "H Common Expressions";
+"txt-unit-48-SH-01-title"               = "Listen and repeat these common expressions with the sound /r/.";
+"txt-unit-48-SH-01-content"             = "Great!|Try it.|All right.|Relax!|Are you ready?|I'm really sorry.";
+
+
+"txt-unit-49-title"						= "Unit 49 /r/ • after vowels";
+"txt-unit-49-S0-01-content"             = "To say the sound /r/ after a vowel, curl the tip of your tongue up.\nDo not touch the roof of your mouth with the tip of your tongue.\n\nListen and repeat: /r/.";
+"txt-unit-49-SA-title"					= "A Word Pairs";
+"txt-unit-49-SA-01-title"               = "Listen to these word pairs.";
+"txt-unit-49-SA-01-content"             = "Sound /l/|Sound /r/,heel|hear,pail 桶|pear 梨,fall|four,file|fire,towel 毛巾|tower";
+"txt-unit-49-SB-title"					= "B Test Yourself";
+"txt-unit-49-SC-title"					= "C Vocabulary";
+"txt-unit-49-SC-01-title"               = "Listen to these words with the sound /Ir/, /εr/, /ɑr/, /ɜr/, /ɔr/.";
+"txt-unit-49-SC-01-content"             = "hear,here,near,clear,chair,there,upstairs,where,far,start,large,aren't,thirty,first,worse,clerk,four,morning,before,toward";
+"txt-unit-49-SD-title"					= "D Dialog: At the airport";
+"txt-unit-49-SE-title"					= "E Intonation in Polite Questions";
+"txt-unit-49-SF-title"					= "F Conversation Practice";
+"txt-unit-49-SF-01-title"               = "Practice in a group of three or four people.\nTake turns asking for directions to places in your town or neighborhood.\nAsk about places like the ones below.\nListen to these examples:";
+"txt-unit-49-SF-01-content"             = "{1,11}";
+"txt-unit-49-SF-01-01"                  = "A: Pardon me. Is there a bookstore near here?";
+"txt-unit-49-SF-01-02"                  = "B: Yes. There's a bookstore on the corner.";
+"txt-unit-49-SF-01-03"                  = "A: Where's the nearest tourist office?";
+"txt-unit-49-SF-01-04"                  = "B: Sorry, I'm really not sure.";
+"txt-unit-49-SF-01-05"                  = "a park        a bookstore";
+"txt-unit-49-SF-01-06"                  = "the airport   a hardware store";
+"txt-unit-49-SF-01-07"                  = "a florist       a library";
+"txt-unit-49-SF-01-08"                  = "a hairdresser   a cafeteria";
+"txt-unit-49-SF-01-09"                  = "a tourist office";
+"txt-unit-49-SF-01-10"                  = "a department store";
+"txt-unit-49-SF-01-11"                  = "a farmer's market";
+"txt-unit-49-SH-title"					= "H Common Expressions";
+"txt-unit-49-SH-01-title"               = "Listen and repeat these common expressions with the sound /r/ after vowels.";
+"txt-unit-49-SH-01-content"             = "Take care!|Is it near here?|How far is it from here?|Are you sure?|Where are you from?|Where were you born?";
+
+
+"txt-unit-50-title"						= "Unit 50 Review";
+"txt-unit-50-SA-title"					= "A Test Yourself";
+"txt-unit-50-SB-title"					= "B Intonation";
+

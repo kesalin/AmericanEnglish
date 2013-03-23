@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'AmericanEnglish' target in the 'AmericanEnglish' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
