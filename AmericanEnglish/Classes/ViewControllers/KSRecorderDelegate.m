@@ -8,16 +8,18 @@
 
 #import "KSRecorderDelegate.h"
 #import "KSRecorderViewController.h"
-
+#import "KSDefine.h"
 @implementation KSRecorderDelegate
 
 - (void) setup
 {
     _parentViewController.tableView.hidden = YES;
     
-    CGRect frame            = _parentViewController.view.frame;
-    frame.origin.y          = 0;
+    CGRect frame             = _parentViewController.view.frame;
     frame.origin.x          = 0;
+    frame.origin.y          = 0;
+    frame.size.height       -= kKSTabItemHeight;
+    
     _recorderController     = [[KSRecorderViewController createKSRecorderViewController:frame] retain];
     [_parentViewController.view addSubview:_recorderController.view];
 }

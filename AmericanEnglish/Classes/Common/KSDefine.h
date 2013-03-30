@@ -32,6 +32,8 @@
 
 // Constants
 //
+#define kKSScreenBounds                 [[UIScreen mainScreen] bounds]
+#define kKSScreenFrame                  [[UIScreen mainScreen] applicationFrame]
 #define kKSAppWidth                     [[UIScreen mainScreen] bounds].size.width
 #define kKSAppHeight                    [[UIScreen mainScreen] bounds].size.height
 

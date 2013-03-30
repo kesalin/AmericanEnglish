@@ -77,7 +77,7 @@
 
 - (void)loadView
 {
-    UIView *ksView = [[UIView alloc] initWithFrame:[[UIScreen mainScreen] applicationFrame]];
+    UIView *ksView = [[UIView alloc] initWithFrame:kKSScreenFrame];
     self.view = ksView;
     [ksView release];
     

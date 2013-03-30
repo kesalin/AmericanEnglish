@@ -66,6 +66,8 @@
 		21D16DAE13DD66CF008C195A /* arrow_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D16DAA13DD66CF008C195A /* arrow_right.png */; };
 		21D16DB213DD6752008C195A /* arrow_left@x2.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D16DB013DD6752008C195A /* arrow_left@x2.png */; };
 		21D16DB313DD6752008C195A /* arrow_right@x2.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D16DB113DD6752008C195A /* arrow_right@x2.png */; };
+		21D484DE17073DFA00F13F8B /* UIDevice+Resolutions.m in Sources */ = {isa = PBXBuildFile; fileRef = 21D484DD17073DFA00F13F8B /* UIDevice+Resolutions.m */; };
+		21D484E017073F9C00F13F8B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D484DF17073F9C00F13F8B /* Default-568h@2x.png */; };
 		21D9232113E14327006CC1AF /* 31-0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21D9232013E14327006CC1AF /* 31-0.mp3 */; };
 		21D9232413E14C33006CC1AF /* KSGrammarDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 21D9232313E14C32006CC1AF /* KSGrammarDelegate.m */; };
 		21D9232713E14CF5006CC1AF /* vowel_sounds.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 21D9232613E14CF5006CC1AF /* vowel_sounds.pdf */; };
@@ -527,6 +529,9 @@
 		21D16DAA13DD66CF008C195A /* arrow_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arrow_right.png; path = Resources/Images/navigation/arrow_right.png; sourceTree = "<group>"; };
 		21D16DB013DD6752008C195A /* arrow_left@x2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "arrow_left@x2.png"; path = "Resources/Images/navigation/arrow_left@x2.png"; sourceTree = "<group>"; };
 		21D16DB113DD6752008C195A /* arrow_right@x2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "arrow_right@x2.png"; path = "Resources/Images/navigation/arrow_right@x2.png"; sourceTree = "<group>"; };
+		21D484DC17073DCA00F13F8B /* UIDevice+Resolutions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIDevice+Resolutions.h"; path = "Common/UIDevice+Resolutions.h"; sourceTree = "<group>"; };
+		21D484DD17073DFA00F13F8B /* UIDevice+Resolutions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIDevice+Resolutions.m"; path = "Common/UIDevice+Resolutions.m"; sourceTree = "<group>"; };
+		21D484DF17073F9C00F13F8B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		21D9232013E14327006CC1AF /* 31-0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "31-0.mp3"; sourceTree = "<group>"; };
 		21D9232213E14C32006CC1AF /* KSGrammarDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KSGrammarDelegate.h; path = ViewControllers/KSGrammarDelegate.h; sourceTree = "<group>"; };
 		21D9232313E14C32006CC1AF /* KSGrammarDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KSGrammarDelegate.m; path = ViewControllers/KSGrammarDelegate.m; sourceTree = "<group>"; };
@@ -1925,6 +1930,7 @@
 			children = (
 				210D9E6514025C9000EE013E /* icon.png */,
 				210D9E4F1402538A00EE013E /* icon@2x.png */,
+				21D484DF17073F9C00F13F8B /* Default-568h@2x.png */,
 				216AA88813DBAA390015AEAF /* navigation */,
 				21E8C9FE13D7F8450040ACE6 /* mediaplayer */,
 				21DD838913D57BB6007FB019 /* common */,
@@ -2035,6 +2041,8 @@
 			isa = PBXGroup;
 			children = (
 				21FC3B2613D530F500D57EF9 /* KSDefine.h */,
+				21D484DC17073DCA00F13F8B /* UIDevice+Resolutions.h */,
+				21D484DD17073DFA00F13F8B /* UIDevice+Resolutions.m */,
 			);
 			name = Common;
 			sourceTree = "<group>";
@@ -2136,6 +2144,7 @@
 				1D60588D0D05DD3D006BFB54 /* Resources */,
 				1D60588E0D05DD3D006BFB54 /* Sources */,
 				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+				21D484DB170724CA00F13F8B /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -2561,10 +2570,27 @@
 				210D9E501402538A00EE013E /* icon@2x.png in Resources */,
 				210D9E6614025C9000EE013E /* icon.png in Resources */,
 				212F9BD314039D290012DC30 /* Entitlements.plist in Resources */,
+				21D484E017073F9C00F13F8B /* Default-568h@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		21D484DB170724CA00F13F8B /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "export CODESIGN_ALLOCATE=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate\nif [ \"${PLATFORM_NAME}\" == \"iphoneos\" ] || [ \"${PLATFORM_NAME}\" == \"ipados\" ]; then\n/Applications/Xcode.app/Contents/Developer/iphoneentitlements/gen_entitlements.py \"my.company.${PROJECT_NAME}\" \"${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}/${PROJECT_NAME}.xcent\";\ncodesign -f -s \"iPhone Developer\" --entitlements \"${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}/${PROJECT_NAME}.xcent\" \"${BUILT_PRODUCTS_DIR}/${WRAPPER_NAME}/\"\nfi";
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		1D60588E0D05DD3D006BFB54 /* Sources */ = {
@@ -2621,6 +2647,7 @@
 				21C5A2FA13FE038E00B7CE7E /* KSRecorderController.mm in Sources */,
 				21C5A30713FE0D1600B7CE7E /* KSRecorderViewController.m in Sources */,
 				210D9E4E1402523500EE013E /* KSTextSectionView.m in Sources */,
+				21D484DE17073DFA00F13F8B /* UIDevice+Resolutions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2642,9 +2669,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: LUO ZHAOHUI (YN9WYECE74)";
-				CODE_SIGN_RESOURCE_RULES_PATH = com.kesalin.AmericanEnglish;
-				"CODE_SIGN_RESOURCE_RULES_PATH[sdk=*]" = com.kesalin.AmericanEnglish;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=*]" = "";
+				CODE_SIGN_RESOURCE_RULES_PATH = "";
+				"CODE_SIGN_RESOURCE_RULES_PATH[sdk=*]" = "";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -2654,7 +2682,6 @@
 				INFOPLIST_FILE = "AmericanEnglish-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = AmericanEnglish;
-				PROVISIONING_PROFILE = "B579F6BB-3023-4D5A-BB1C-4ED48C1BDA02";
 			};
 			name = Debug;
 		};
@@ -2662,16 +2689,16 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer: LUO ZHAOHUI (YN9WYECE74)";
-				CODE_SIGN_RESOURCE_RULES_PATH = com.kesalin.AmericanEnglish;
-				"CODE_SIGN_RESOURCE_RULES_PATH[sdk=*]" = com.kesalin.AmericanEnglish;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=*]" = "";
+				CODE_SIGN_RESOURCE_RULES_PATH = "";
+				"CODE_SIGN_RESOURCE_RULES_PATH[sdk=*]" = "";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = AmericanEnglish_Prefix.pch;
 				INFOPLIST_FILE = "AmericanEnglish-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = AmericanEnglish;
-				PROVISIONING_PROFILE = "B579F6BB-3023-4D5A-BB1C-4ED48C1BDA02";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
@@ -2684,7 +2711,7 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 4.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				PREBINDING = NO;
 				PROVISIONING_PROFILE = "B579F6BB-3023-4D5A-BB1C-4ED48C1BDA02";
 				SDKROOT = iphoneos;
@@ -2699,7 +2726,7 @@
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 4.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				PREBINDING = NO;
 				PROVISIONING_PROFILE = "B579F6BB-3023-4D5A-BB1C-4ED48C1BDA02";
