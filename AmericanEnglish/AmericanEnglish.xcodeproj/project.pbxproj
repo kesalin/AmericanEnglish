@@ -66,7 +66,6 @@
 		21D16DAE13DD66CF008C195A /* arrow_right.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D16DAA13DD66CF008C195A /* arrow_right.png */; };
 		21D16DB213DD6752008C195A /* arrow_left@x2.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D16DB013DD6752008C195A /* arrow_left@x2.png */; };
 		21D16DB313DD6752008C195A /* arrow_right@x2.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D16DB113DD6752008C195A /* arrow_right@x2.png */; };
-		21D484DE17073DFA00F13F8B /* UIDevice+Resolutions.m in Sources */ = {isa = PBXBuildFile; fileRef = 21D484DD17073DFA00F13F8B /* UIDevice+Resolutions.m */; };
 		21D484E017073F9C00F13F8B /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 21D484DF17073F9C00F13F8B /* Default-568h@2x.png */; };
 		21D9232113E14327006CC1AF /* 31-0.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 21D9232013E14327006CC1AF /* 31-0.mp3 */; };
 		21D9232413E14C33006CC1AF /* KSGrammarDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 21D9232313E14C32006CC1AF /* KSGrammarDelegate.m */; };
@@ -435,6 +434,7 @@
 		21F2931C13D6C6610046CE44 /* KSViewUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F2931B13D6C6610046CE44 /* KSViewUtils.m */; };
 		21F753C413DD3EBD0065919B /* selected.png in Resources */ = {isa = PBXBuildFile; fileRef = 21F753C213DD3EBD0065919B /* selected.png */; };
 		21F753C513DD3EBD0065919B /* unselected.png in Resources */ = {isa = PBXBuildFile; fileRef = 21F753C313DD3EBD0065919B /* unselected.png */; };
+		21F7A91C170FC90500C4EA55 /* UIDevice+Resolutions.m in Sources */ = {isa = PBXBuildFile; fileRef = 21F7A91A170FC90500C4EA55 /* UIDevice+Resolutions.m */; };
 		21FBA5CE13E28EAC00F5424A /* KSSectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 21FBA5CD13E28EAC00F5424A /* KSSectionView.m */; };
 		21FBA5D113E2943C00F5424A /* KSPronunciationSectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 21FBA5D013E2943C00F5424A /* KSPronunciationSectionView.m */; };
 		21FBA5D713E2A1BB00F5424A /* KSVocabularySectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 21FBA5D613E2A1B900F5424A /* KSVocabularySectionView.m */; };
@@ -529,8 +529,6 @@
 		21D16DAA13DD66CF008C195A /* arrow_right.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arrow_right.png; path = Resources/Images/navigation/arrow_right.png; sourceTree = "<group>"; };
 		21D16DB013DD6752008C195A /* arrow_left@x2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "arrow_left@x2.png"; path = "Resources/Images/navigation/arrow_left@x2.png"; sourceTree = "<group>"; };
 		21D16DB113DD6752008C195A /* arrow_right@x2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "arrow_right@x2.png"; path = "Resources/Images/navigation/arrow_right@x2.png"; sourceTree = "<group>"; };
-		21D484DC17073DCA00F13F8B /* UIDevice+Resolutions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIDevice+Resolutions.h"; path = "Common/UIDevice+Resolutions.h"; sourceTree = "<group>"; };
-		21D484DD17073DFA00F13F8B /* UIDevice+Resolutions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIDevice+Resolutions.m"; path = "Common/UIDevice+Resolutions.m"; sourceTree = "<group>"; };
 		21D484DF17073F9C00F13F8B /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		21D9232013E14327006CC1AF /* 31-0.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "31-0.mp3"; sourceTree = "<group>"; };
 		21D9232213E14C32006CC1AF /* KSGrammarDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KSGrammarDelegate.h; path = ViewControllers/KSGrammarDelegate.h; sourceTree = "<group>"; };
@@ -922,6 +920,8 @@
 		21F2931B13D6C6610046CE44 /* KSViewUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KSViewUtils.m; path = Views/KSViewUtils.m; sourceTree = "<group>"; };
 		21F753C213DD3EBD0065919B /* selected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = selected.png; path = Resources/Images/common/selected.png; sourceTree = "<group>"; };
 		21F753C313DD3EBD0065919B /* unselected.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = unselected.png; path = Resources/Images/common/unselected.png; sourceTree = "<group>"; };
+		21F7A91A170FC90500C4EA55 /* UIDevice+Resolutions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIDevice+Resolutions.m"; path = "Utilities/UIDevice+Resolutions.m"; sourceTree = "<group>"; };
+		21F7A91B170FC90500C4EA55 /* UIDevice+Resolutions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIDevice+Resolutions.h"; path = "Utilities/UIDevice+Resolutions.h"; sourceTree = "<group>"; };
 		21FBA5CC13E28EAC00F5424A /* KSSectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KSSectionView.h; path = Views/KSSectionView.h; sourceTree = "<group>"; };
 		21FBA5CD13E28EAC00F5424A /* KSSectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = KSSectionView.m; path = Views/KSSectionView.m; sourceTree = "<group>"; };
 		21FBA5CF13E2943C00F5424A /* KSPronunciationSectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = KSPronunciationSectionView.h; path = Views/KSPronunciationSectionView.h; sourceTree = "<group>"; };
@@ -1971,6 +1971,8 @@
 		21FC3B0E13D5304000D57EF9 /* Utilities */ = {
 			isa = PBXGroup;
 			children = (
+				21F7A91A170FC90500C4EA55 /* UIDevice+Resolutions.m */,
+				21F7A91B170FC90500C4EA55 /* UIDevice+Resolutions.h */,
 				21DD825513D564D3007FB019 /* KSUtilities.h */,
 				21DD825613D564D3007FB019 /* KSUtilities.m */,
 				21FC3B2813D531A500D57EF9 /* KSLog.h */,
@@ -2041,8 +2043,6 @@
 			isa = PBXGroup;
 			children = (
 				21FC3B2613D530F500D57EF9 /* KSDefine.h */,
-				21D484DC17073DCA00F13F8B /* UIDevice+Resolutions.h */,
-				21D484DD17073DFA00F13F8B /* UIDevice+Resolutions.m */,
 			);
 			name = Common;
 			sourceTree = "<group>";
@@ -2647,7 +2647,7 @@
 				21C5A2FA13FE038E00B7CE7E /* KSRecorderController.mm in Sources */,
 				21C5A30713FE0D1600B7CE7E /* KSRecorderViewController.m in Sources */,
 				210D9E4E1402523500EE013E /* KSTextSectionView.m in Sources */,
-				21D484DE17073DFA00F13F8B /* UIDevice+Resolutions.m in Sources */,
+				21F7A91C170FC90500C4EA55 /* UIDevice+Resolutions.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2680,7 +2680,7 @@
 				GCC_PREFIX_HEADER = AmericanEnglish_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = KSDEBUG;
 				INFOPLIST_FILE = "AmericanEnglish-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = AmericanEnglish;
 			};
 			name = Debug;
@@ -2697,7 +2697,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = AmericanEnglish_Prefix.pch;
 				INFOPLIST_FILE = "AmericanEnglish-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
 				PRODUCT_NAME = AmericanEnglish;
 				VALIDATE_PRODUCT = YES;
 			};

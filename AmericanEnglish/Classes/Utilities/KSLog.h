@@ -12,9 +12,11 @@
 
 
 #ifdef KSDEBUG
-#define KSLog(format, ...) NSLog(format, ## __VA_ARGS__)
+#define KSLog(format, ...) NSLog(format", file:%s, line:%d, function:%s.", ##__VA_ARGS__, __FILE__, __LINE__, __FUNCTION__)
+#define KSTrace(format, ...) NSLog(@"--- %s "format"---", __FUNCTION__, ##__VA_ARGS__)
 #else
 #define KSLog(format, ...)
+#define KSTrace(format, ...)
 #endif
 
 #endif //__KSLOG_H__
