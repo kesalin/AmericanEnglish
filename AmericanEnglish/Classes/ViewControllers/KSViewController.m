@@ -108,25 +108,23 @@
     [self.navigationController pushViewController:controller animated:animated];
 }
 
+#ifdef __IPHONE_7_0
+- (void)viewDidLayoutSubviews
+{
+    self.edgesForExtendedLayout = UIRectEdgeNone;
+    self.automaticallyAdjustsScrollViewInsets = false;
+}
+#endif
+
 #pragma mark -
 #pragma mark notifications
 
 - (void)registerNotification
 {
-    //    HBDataManager *dm = [HBDataManager defaultManager];
-    //    for (NSString *key in self.concerningKeys)
-    //    {
-    //        [dm addObserver:self withKey:key];
-    //    }
 }
 
 - (void)unregisterNotification 
 {
-    //    HBDataManager *dm = [HBDataManager defaultManager];
-    //    for (NSString *key in self.concerningKeys) 
-    //    {
-    //        [dm removeObserver:self withKey:key];
-    //    }
 }
 
 @end
