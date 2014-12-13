@@ -194,8 +194,13 @@
 
 - (void)layoutViews:(UIInterfaceOrientation)interfaceOrientation
 {
+    float offset                    = 0;
+#ifdef __IPHONE_7_0
+    offset                          = 64;
+#endif
+
     CGRect frameRect                = self.view.frame;
-    CGRect rect                     = CGRectMake(0, 0, frameRect.size.width, 0);
+    CGRect rect                     = CGRectMake(0, offset, frameRect.size.width, 0);
 
     if (_isWithMP3Player)
     {
@@ -206,7 +211,7 @@
     
     CGSize pageCtlSize  = [_pageControl sizeForNumberOfPages:_pageCount];
 
-    rect.size.height    = (frameRect.size.height -  (_isWithMP3Player ? kKSMP3PlayerHeight : 0) - pageCtlSize.height);
+    rect.size.height    = (frameRect.size.height - offset - (_isWithMP3Player ? kKSMP3PlayerHeight : 0) - pageCtlSize.height);
     _scrollView.frame   = rect;
     _scrollView.contentSize = CGSizeMake(rect.size.width * _pageCount, rect.size.height);
     
